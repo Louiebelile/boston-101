@@ -5,7 +5,7 @@ import './lesson.css'
 import * as THREE from 'three'
 import { loadJsonPak, loadPak } from './data.js'
 import { createWorld } from './world.js'
-import { CARDS, END, STOPS, createDirector } from './story.js'
+import { CARDS, END, PHOTO, STOPS, createDirector } from './story.js'
 
 const $ = (id) => document.getElementById(id)
 const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches
@@ -16,7 +16,7 @@ const story = $('story')
 const cards = CARDS.map((c) => { const el = document.createElement('article'); el.className = `card ${c.kind}`; el.innerHTML = c.html; story.append(el); return { ...c, el, shown: null } })
 const route = $('route'); const stops = STOPS.map((s) => { const li = document.createElement('li'); li.textContent = s; route.append(li); return li })
 $('scroll').style.height = `${(END + 1) * 100}svh`
-const img = $('photo').querySelector('img'); img.src = new URL('../img/gas-tank.png', import.meta.url).href
+if (PHOTO) $('photo').querySelector('img').src = new URL(PHOTO, import.meta.url).href
 
 function staticFallback(message) { document.documentElement.classList.add('no-3d'); $('loading').hidden = true; if (message) console.warn(message) }
 
@@ -26,9 +26,9 @@ try {
   await new Promise((r) => setTimeout(r, 30))
   const world = createWorld($('city'), base, buildings, layers, { lite })
   const direct = createDirector(world)
-  const signs = ['JFK/UMass', 'Savin Hill', 'Fields Corner'].map((name) => {
+  const signs = [['JFK/UMass', 8.6, 10.2], ['Savin Hill', 9.9, 12.2], ['Fields Corner', 11.8, 14.4]].map(([name, from, to]) => {
     const s = world.station(name), el = document.createElement('span'); el.textContent = name; $('signs').append(el)
-    return { el, v: new THREE.Vector3(s.x, 62, -s.y) }
+    return { el, from, to, v: new THREE.Vector3(s.x, 62, -s.y) }
   })
   let pr = Math.min(devicePixelRatio || 1, lite ? 1.6 : 2)
   const size = () => world.setSize(innerWidth, innerHeight, pr); addEventListener('resize', size); size()
@@ -42,7 +42,7 @@ try {
     if (!moving && !reduced && ++skip % 3) return
     last = now
     shown = reduced ? goal : shown + (goal - shown) * (1 - Math.exp(-dt * 7))
-    const s = direct(shown)
+    const s = direct(shown, reduced ? 40 : 7)
     for (const c of cards) {
       const fade = Math.min(1, Math.min((shown - c.from) / .16, (c.to - shown) / .16)), on = Math.max(0, fade)
       if (on !== c.shown) { c.shown = on; c.el.style.setProperty('--v', on.toFixed(3)); c.el.classList.toggle('live', on > .02); c.el.inert = on < .5 }
@@ -53,7 +53,7 @@ try {
     world.render(dt, !reduced)
     world.camera.updateMatrixWorld()
     for (const x of signs) {
-      v.copy(x.v).project(world.camera); const d = world.camera.position.distanceTo(x.v), ok = v.z < 1 && Math.abs(v.x) < 1.05 && Math.abs(v.y) < 1.05 && shown > 8.6 && shown < 16.8 && d < 1700
+      v.copy(x.v).project(world.camera); const d = world.camera.position.distanceTo(x.v), ok = v.z < 1 && Math.abs(v.x) < 1.05 && Math.abs(v.y) < 1.05 && shown > x.from && shown < x.to && d < 1700
       x.el.style.opacity = ok ? 1 : 0; if (ok) x.el.style.transform = `translate(${(v.x + 1) * innerWidth / 2}px, ${(1 - v.y) * innerHeight / 2}px) translate(-50%,-100%)`
     }
     world.camera.getWorldDirection(forward); forward.y = 0; forward.normalize(); v.copy(world.camera.position).addScaledVector(forward, 30000).setY(0).project(world.camera)
