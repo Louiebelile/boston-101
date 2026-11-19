@@ -2,6 +2,10 @@ export async function loadPak(url) {
   const response = await fetch(url)
   if (!response.ok) throw new Error(`Could not load ${url}`)
   let buffer = await response.arrayBuffer()
+  if (new Uint8Array(buffer, 0, 1)[0] === 0x7b) {
+    const wrapped = JSON.parse(new TextDecoder().decode(buffer))
+    if (wrapped.b64) buffer = Uint8Array.from(atob(wrapped.b64), (c) => c.charCodeAt(0)).buffer
+  }
   const head = new Uint8Array(buffer, 0, 2)
   if (head[0] === 0x1f && head[1] === 0x8b) {
     const stream = new Blob([buffer]).stream().pipeThrough(new DecompressionStream('gzip'))
