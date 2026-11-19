@@ -1,0 +1,32 @@
+name: Build map data
+on:
+  push:
+    branches: [dev]
+    paths:
+      - "scripts/build_data.py"
+      - ".github/workflows/build-data.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q geopandas pyogrio shapely pandas numpy
+      - run: python scripts/build_data.py
+      - name: Publish results to the data branch
+        if: always()
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p out && cd out
+          git init -q -b data-build
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -qm "Build map data" --allow-empty
+          git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}" data-build
