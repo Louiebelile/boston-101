@@ -1,0 +1,156 @@
+DOWNLOAD buildings.zip 200 33394328 
+DOWNLOAD neighborhoods.geojson 200 1317938 
+DOWNLOAD public_schools.geojson 200 67691 
+DOWNLOAD non_public_schools.geojson 200 46412 
+DOWNLOAD colleges.geojson 200 53219 
+DOWNLOAD council.geojson 200 243048 
+DOWNLOAD article80.geojson 200 1278627 
+DOWNLOAD main_streets.geojson 200 188189 
+DOWNLOAD open_space.geojson 200 3375606 
+DOWNLOAD landmarks.geojson 200 512069 
+DOWNLOAD food.csv 200 537291 
+DOWNLOAD rapid.zip 200 111143 
+DOWNLOAD trains.zip 200 1519820 
+DOWNLOAD towns.zip 200 19503379 
+DOWNLOAD sldu.zip 200 837129 
+DOWNLOAD sldl.zip 200 1862269 
+DOWNLOAD cd.zip 200 461493 
+
+ZIP buildings.zip ['Boston_Buildings_with_Roof_Breaks.geojson']
+
+### buildings.zip:Boston_Buildings_with_Roof_Breaks.geojson rows 2000 crs EPSG:4326
+columns ['OBJECTID', 'PART_USE', 'PART_BRA_U', 'GRND_ELEV_2010', 'ROOF_ELEV_2010', 'BLDG_HGT_2010', 'IEL_TYPE', 'Land_Use', 'BRA_Land_Use', 'Added', 'Shape_Length', 'Shape_Area', 'shape_wkt', 'geometry']
+sample {"OBJECTID": "1", "PART_USE": "R1", "PART_BRA_U": "R1", "GRND_ELEV_2010": "54.8193016", "ROOF_ELEV_2010": "71.71", "BLDG_HGT_2010": "16.89069839", "IEL_TYPE": "BLDG", "Land_Use": "R1", "BRA_Land_Use": "R1", "Added": "nan", "Shape_Length": "0.0004797210405790615", "Shape_Area": "1.178902058491782e-08", "shape_wkt": "nan"}
+geom {'Polygon': 2000} bounds [np.float64(-71.17479151999999), np.float64(42.34340143500003), np.float64(-71.02555505999999), np.float64(42.35203575600008)]
+
+### neighborhoods.geojson rows 26 crs EPSG:4326
+columns ['OBJECTID', 'name', 'acres', 'neighborhood_id', 'sqmiles', 'Shape_Length', 'Shape_Area', 'shape_wkt', 'geometry']
+sample {"OBJECTID": "1", "name": "Roslindale", "acres": "1605.5682375", "neighborhood_id": "15", "sqmiles": "2.51", "Shape_Length": "0.16912020020897905", "Shape_Area": "0.0007092176146077519", "shape_wkt": "None"}
+geom {'Polygon': 21, 'MultiPolygon': 5} bounds [np.float64(-71.19124909999994), np.float64(42.22791113100004), np.float64(-70.92277988099994), np.float64(42.39697750200003)]
+
+### public_schools.geojson rows 134 crs EPSG:4326
+columns ['OBJECTID', 'BLDG_ID', 'BLDG_NAME', 'ADDRESS', 'CITY', 'ZIPCODE', 'CSP_SCH_ID', 'SCH_ID', 'SCH_NAME', 'SCH_LABEL', 'SCH_TYPE', 'SHARED', 'COMPLEX', 'shape_wkt', 'POINT_X', 'POINT_Y', 'geometry']
+sample {"OBJECTID": "1", "BLDG_ID": "1", "BLDG_NAME": "Guild Bldg", "ADDRESS": "195 Leyden Street", "CITY": "East Boston", "ZIPCODE": "02128", "CSP_SCH_ID": "4061", "SCH_ID": "4061", "SCH_NAME": "Guild Elementary", "SCH_LABEL": "Guild", "SCH_TYPE": "ES", "SHARED": " ", "COMPLEX": " ", "shape_wkt": "POINT (-71.004120000999933 42.388790000000029)", "POINT_X": "-71.00412000099993", "POINT_Y": "42.38879000000003"}
+geom {'Point': 134} bounds [np.float64(-71.17433999999997), np.float64(42.23389000000003), np.float64(-71.00412000099993), np.float64(42.39160749800004)]
+
+### non_public_schools.geojson rows 87 crs EPSG:4326
+columns ['OBJECTID', 'OBJECTID_1', 'SCHID', 'NAME', 'ADDRESS', 'TOWN_MAIL', 'TOWN', 'STATE', 'ZIP', 'PRINCIPAL', 'PHONE', 'FAX', 'GRADES', 'TYPE', 'shape_wkt', 'POINT_X', 'POINT_Y', 'geometry']
+sample {"OBJECTID": "1", "OBJECTID_1": "None", "SCHID": "5300", "NAME": "Roxbury Prep - Mission Hill", "ADDRESS": "120 Fisher Avenue", "TOWN_MAIL": "Roxbury", "TOWN": "BOSTON", "STATE": "MA", "ZIP": "02120", "PRINCIPAL": "Dana Lehman", "PHONE": "617-566-2361", "FAX": "617-566-2373", "GRADES": "6,7,8", "TYPE": "CHA", "shape_wkt": "POINT (-71.105142549999982 42.327667079000037)", "POINT_X": "-71.10514254999998", "POINT_Y": "42.32766707900004"}
+geom {'Point': 87} bounds [np.float64(-71.16578020399999), np.float64(42.24013360600003), np.float64(-70.99945197099998), np.float64(42.38435960800007)]
+
+### colleges.geojson rows 60 crs EPSG:4326
+columns ['OBJECTID', 'Match_type', 'Ref_ID', 'ID1', 'Id', 'SchoolId', 'Name', 'Address', 'City', 'Zipcode', 'Contact', 'PhoneNumbe', 'YearBuilt', 'NumStories', 'Cost', 'NumStudent', 'BackupPowe', 'ShelterCap', 'Latitude', 'Longitude', 'Comment', 'X', 'Y', 'NumStudent12', 'CampusHous', 'NumStudents13', 'URL', 'Address2013', 'shape_wkt', 'POINT_X', 'POINT_Y', 'geometry']
+sample {"OBJECTID": "1", "Match_type": "NCES", "Ref_ID": "0", "ID1": "Fruit St, Boston, Massachusetts 02114-2696", "Id": "98627", "SchoolId": "431594", "Name": "Massachusetts General Hospital Dietetic Internship", "Address": "Fruit St, Boston, Massachusetts 02114", "City": "West End", "Zipcode": "365190", "Contact": "MASS GEN EYE * EAR INF", "PhoneNumbe": "(617) 726-2589", "YearBuilt": "1899", "NumStories": "13", "Cost": "106836600", "NumStudent": "10", "BackupPowe": "0", "ShelterCap": " ", "Latitude": "42.36259065", "Longitude": "-71.07014072", "Comment": "0300381001", "X": "772340.99986702", "Y": "2957450.0000556", "NumStudent12": "nan", "CampusHous": " ", "NumStudents13": "20", "URL": "N/A", "Address2013": "None", "shape_wkt": "POINT (-71.070140721999962 42.362590658000045)", "POINT_X": "-71.07014072199996", "POINT_Y": "42.362590658000045"}
+geom {'Point': 60} bounds [np.float64(-71.18035129799995), np.float64(42.254000000000076), np.float64(-71.03920215999995), np.float64(42.38101000000006)]
+
+### council.geojson rows 9 crs EPSG:4326
+columns ['OBJECTID', 'LONGNAME', 'SHORTNAME', 'DISTRICT', 'Councilor', 'Webpage', 'Bio', 'Image', 'GlobalID', 'CreationDate', 'Creator', 'EditDate', 'Editor', 'IMG_RESIZE', 'electionballot', 'Shape_Length', 'Shape_Area', 'shape_wkt', 'geometry']
+sample {"OBJECTID": "1", "LONGNAME": "District 1", "SHORTNAME": "D1", "DISTRICT": "1", "Councilor": "Gabriela Coletta", "Webpage": "https://www.boston.gov/departments/city-council", "Bio": "https://bit.ly/3Nd4A9O", "Image": "https://boston.maps.arcgis.com/sharing/rest/content/items/c8", "GlobalID": "{A4A93321-9D4E-4993-BDEF-A548F0A12773}", "CreationDate": "1520264107000", "Creator": "143525_boston", "EditDate": "1692796549000", "Editor": "133970_boston", "IMG_RESIZE": "None", "electionballot": "https://www.boston.gov/sites/default/files/file/2023/10/CCDI", "Shape_Length": "0.37890874420065646", "Shape_Area": "0.0029849642161239877", "shape_wkt": "None"}
+geom {'Polygon': 9} bounds [np.float64(-71.19124762899997), np.float64(42.22791964600003), np.float64(-70.74880249199998), np.float64(42.40082869100007)]
+
+### article80.geojson rows 998 crs EPSG:4326
+columns ['OBJECTID', 'project_id', 'project__project_name', 'project_street_number', 'project_street_name', 'project_street_suffix', 'neighborhood', 'project_zip_code', 'project_status', 'project__record_type', 'last_filed_date', 'last_board_approved_date', 'total_residential_units', 'gross_square_footage', 'sam_ids', 'description', 'website_url', 'longitude', 'latitude', 'shape_wkt', 'POINT_X', 'POINT_Y', 'geometry']
+sample {"OBJECTID": "1", "project_id": "3195", "project__project_name": "267 Old Colony Avenue", "project_street_number": "267", "project_street_name": "Old Colony", "project_street_suffix": "Avenue", "neighborhood": "South Boston", "project_zip_code": "02127", "project_status": "Construction Complete", "project__record_type": "Large Project", "last_filed_date": "2024-02-21 00:00:00", "last_board_approved_date": "2024-04-11 00:00:00", "total_residential_units": "55.0", "gross_square_footage": "63782", "sam_ids": "nan", "description": "Updated NPC Proposal: The Proponent is proposing to change t", "website_url": "http://www.bostonplans.org/Projects/Development-Projects/267", "longitude": "-71.05326128", "latitude": "42.33105457", "shape_wkt": "POINT (-71.05326069299997 42.331045902000028)", "POINT_X": "-71.05326069299997", "POINT_Y": "42.33104590200003"}
+geom {'Point': 998} bounds [np.float64(-71.17850904499994), np.float64(42.234850203000065), np.float64(-70.99785860799994), np.float64(42.393985318000034)]
+
+### main_streets.geojson rows 20 crs EPSG:4326
+columns ['OBJECTID', 'ROW_ID', 'NAME', 'DIST_NAME', 'AREA', 'LEN', 'Shape_Length', 'Shape_Area', 'shape_wkt', 'geometry']
+sample {"OBJECTID": "1", "ROW_ID": "None", "NAME": "BRIGHTON", "DIST_NAME": "Brighton", "AREA": "None", "LEN": "None", "Shape_Length": "0.08236145353498427", "Shape_Area": "3.189474327876642e-05", "shape_wkt": "None"}
+geom {'Polygon': 20} bounds [np.float64(-71.17358385499995), np.float64(42.251971225000034), np.float64(-71.03597517599997), np.float64(42.37642616900007)]
+
+### open_space.geojson rows 560 crs EPSG:4326
+columns ['OBJECTID', 'SITE_NAME', 'OWNERSHIP', 'PROTECTION', 'TYPECODE', 'DISTRICT', 'ACRES', 'ADDRESS', 'ZonAgg', 'TypeLong', 'OS_Own_Jur', 'OS_Mngmnt', 'POS', 'PA', 'ALT_NAME', 'AgncyJuris', 'PARK_ID', 'REGION', 'OS_ID', 'F_100ftRule', 'ZipCode', 'ParcelNumber', 'YearAcquired', 'STArea__', 'STLength__', 'Shape_Length', 'Shape_Area', 'shape_wkt', 'geometry']
+sample {"OBJECTID": "1", "SITE_NAME": "Reilly Playground", "OWNERSHIP": "Commonwealth of Massachusetts", "PROTECTION": "A97", "TYPECODE": "3", "DISTRICT": "Allston-Brighton", "ACRES": "6.93091232", "ADDRESS": "355 Chestnut Hill Avenue", "ZonAgg": "Open Space District", "TypeLong": "Parks, Playgrounds & Athletic Fields", "OS_Own_Jur": "DCR", "OS_Mngmnt": "NULL", "POS": "X", "PA": "X", "ALT_NAME": "Reilly Memorial Recreation Center", "AgncyJuris": "nan", "PARK_ID": "nan", "REGION": "INFO_Reallocation From Dept", "OS_ID": "3000", "F_100ftRule": "YES", "ZipCode": "02135", "ParcelNumber": "2102473000", "YearAcquired": "0.0", "STArea__": "None", "STLength__": "None", "Shape_Length": "0.008311602647853416", "Shape_Area": "3.064135437121513e-06", "shape_wkt": "nan"}
+geom {'Polygon': 473, 'MultiPolygon': 87} bounds [np.float64(-71.19089743499995), np.float64(42.22788259600003), np.float64(-70.92328318499995), np.float64(42.39312833500003)]
+
+### landmarks.geojson rows 196 crs EPSG:4326
+columns ['OBJECTID', 'Unique_ID', 'Neighborhood', 'Common_Name', 'Status', 'Areas_Under_Jurisdiction', 'Petitioner', 'Study_Report', 'Display_', 'Demolished', 'Date_Designated_1', 'created_user', 'created_date', 'last_edited_user', 'last_edited_date', 'Shape_Length', 'Shape_Area', 'shape_wkt', 'geometry']
+sample {"OBJECTID": "1", "Unique_ID": "132.0", "Neighborhood": "Jamaica Plain", "Common_Name": "Jabez Lewis Farm House at the Arnold Arboretum", "Status": "Approved Landmark", "Areas_Under_Jurisdiction": "Exterior Only, designation extends to the landscape to the p", "Petitioner": "10 voters", "Study_Report": "https://www.cityofboston.gov/images_documents/Lewis-Dawson%2", "Display_": "Yes", "Demolished": "No", "Date_Designated_1": "1182830400000.0", "created_user": "nan", "created_date": "nan", "last_edited_user": "149321", "last_edited_date": "1768944912000.0", "Shape_Length": "0.006931228702971409", "Shape_Area": "2.257237761037814e-06", "shape_wkt": "nan"}
+geom {'Polygon': 190, 'MultiPolygon': 6} bounds [np.float64(-71.18996568299997), np.float64(42.25129893500008), np.float64(-71.02661130399997), np.float64(42.380946538000046)]
+
+### food.csv rows 3355 crs None
+columns ['businessname', 'dbaname', 'address', 'city', 'state', 'zip', 'licstatus', 'licensecat', 'descript', 'license_add_dt_tm', 'dayphn_cleaned', 'property_id', 'latitude', 'longitude']
+sample {"businessname": "100 Federal Market & Barista- 10th Floor", "dbaname": "nan", "address": "100 Federal", "city": "Boston", "state": "MA", "zip": "02110", "licstatus": "Active", "licensecat": "FS", "descript": "Eating & Drinking", "license_add_dt_tm": "2023-08-09 16:00:26.99+00", "dayphn_cleaned": "6174345000", "property_id": "57150", "latitude": "42.354770000088834", "longitude": "-71.0561300019333"}
+
+ZIP rapid.zip ['MBTA_ARC.shp', 'MBTA_NODE.shp']
+
+### rapid.zip:MBTA_ARC.shp rows 141 crs EPSG:26986
+columns ['LINE', 'ROUTE', 'GRADE', 'SHAPE_LEN', 'geometry']
+sample {"LINE": "ORANGE", "ROUTE": "Forest Hills to Oak Grove", "GRADE": "1", "SHAPE_LEN": "1342.32641937"}
+geom {'LineString': 133, 'MultiLineString': 8} bounds [np.float64(220391.71299999952), np.float64(884240.9675000012), np.float64(241871.91160000116), np.float64(909921.25)]
+
+### rapid.zip:MBTA_NODE.shp rows 170 crs EPSG:26986
+columns ['STATION', 'LINE', 'TERMINUS', 'ROUTE', 'geometry']
+sample {"STATION": "Park Street", "LINE": "GREEN/RED", "TERMINUS": "N", "ROUTE": "GREEN B C D E / RED A - Ashmont  B - Braintree  C - Alewife"}
+geom {'Point': 170} bounds [np.float64(220391.71299999952), np.float64(884240.9675999992), np.float64(241850.5122999996), np.float64(909753.4486000016)]
+
+ZIP trains.zip ['TRAINS_ARC.shp', 'TRAINS_NODE.shp', 'TRAINS_RTE_TRAIN.shp']
+
+### trains.zip:TRAINS_ARC.shp rows 6595 crs EPSG:26986
+columns ['TYPE', 'SOURCE', 'COMMRAIL', 'OWNERSHIP', 'FREIGHT_OP', 'PASS_OP', 'COMM_LINE', 'LINE_BRNCH', 'VALPLANNUM', 'VALPLANOWN', 'TRACK', 'KARR_RT', 'YARD', 'FREIGHT_ML', 'STATE', 'LINE_CODE', 'RAIL_TRL', 'SPUR', 'RT_CLASS', 'RT_LINE', 'RT_STATUS', 'MAP_ONE', 'DATE_ABAND', 'ASSET', 'ASSET_ID', 'SERV_TYPE', 'DES_HSPDC', 'SHAPE_LEN', 'geometry']
+sample {"TYPE": "1", "SOURCE": "nan", "COMMRAIL": "nan", "OWNERSHIP": "AMTRAK", "FREIGHT_OP": "P&W", "PASS_OP": "nan", "COMM_LINE": "nan", "LINE_BRNCH": "nan", "VALPLANNUM": "nan", "VALPLANOWN": "nan", "TRACK": "3", "KARR_RT": "nan", "YARD": "AMTRAK MOW BASE", "FREIGHT_ML": "nan", "STATE": "RI", "LINE_CODE": "0", "RAIL_TRL": "nan", "SPUR": "nan", "RT_CLASS": "0", "RT_LINE": "nan", "RT_STATUS": "nan", "MAP_ONE": "nan", "DATE_ABAND": "0", "ASSET": "nan", "ASSET_ID": "0", "SERV_TYPE": "nan", "DES_HSPDC": "0", "SHAPE_LEN": "682.893788723"}
+geom {'LineString': 6595} bounds [np.float64(14330.57649999857), np.float64(777636.0625), np.float64(328690.15630000085), np.float64(1045416.0166999996)]
+
+### trains.zip:TRAINS_NODE.shp rows 368 crs EPSG:26986
+columns ['STATION', 'C_RAILSTAT', 'AMTRAK', 'MAP_STA', 'LINE_BRNCH', 'STATE', 'geometry']
+sample {"STATION": "BOSTON LANDING", "C_RAILSTAT": "Y", "AMTRAK": "nan", "MAP_STA": "Y", "LINE_BRNCH": "FRAMINGHAM/WORCESTER LINE", "STATE": "MA"}
+geom {'Point': 368} bounds [np.float64(55763.0781000033), np.float64(814456.9726999998), np.float64(301602.87889999896), np.float64(951911.3125)]
+
+### trains.zip:TRAINS_RTE_TRAIN.shp rows 25 crs EPSG:26986
+columns ['COMM_LINE', 'COMMRAIL', 'SHAPE_LEN', 'geometry']
+sample {"COMM_LINE": "Needham", "COMMRAIL": "Y", "SHAPE_LEN": "21931.6520719"}
+geom {'LineString': 23, 'MultiLineString': 2} bounds [np.float64(171362.61289999634), np.float64(814457.4862000011), np.float64(303479.06660000235), np.float64(950070.9710000008)]
+
+ZIP towns.zip ['TOWNSSURVEY_ARC.shp', 'TOWNSSURVEY_ARC_GENCOAST.shp', 'TOWNSSURVEY_POLY.shp', 'TOWNSSURVEY_POLYM.shp', 'TOWNSSURVEY_POLYM_GENCOAST.shp', 'TOWNSSURVEY_PT.shp']
+
+### towns.zip:TOWNSSURVEY_ARC.shp rows 2589 crs EPSG:26986
+columns ['BND_QUAL', 'FINISHED', 'BND_UNCLAS', 'REASON', 'OUTLINE', 'SHAPE_LEN', 'geometry']
+sample {"BND_QUAL": "0", "FINISHED": "YES", "BND_UNCLAS": "0", "REASON": "Not Applicable", "OUTLINE": "4", "SHAPE_LEN": "96093.8744444"}
+geom {'LineString': 2571, 'MultiLineString': 16} bounds [np.float64(33863.73250000179), np.float64(777606.3746000007), np.float64(330836.9724999964), np.float64(959743.0445999987)]
+
+### towns.zip:TOWNSSURVEY_ARC_GENCOAST.shp rows 1202 crs EPSG:26986
+columns ['OUTLINE', 'SHAPE_LEN', 'geometry']
+sample {"OUTLINE": "4.0", "SHAPE_LEN": "2095.67064081"}
+geom {'LineString': 1201, 'MultiLineString': 1} bounds [np.float64(33863.73250000179), np.float64(777606.3746000007), np.float64(330810.15313796), np.float64(959743.0445999987)]
+
+### towns.zip:TOWNSSURVEY_POLY.shp rows 1239 crs EPSG:26986
+columns ['TOWN', 'TOWN_ID', 'TYPE', 'COUNTY', 'FIPS_STCO', 'FOURCOLOR', 'AREA_ACRES', 'AREA_SQMI', 'ISLAND', 'COASTAL_PO', 'SHAPE_Leng', 'SHAPE_Area', 'geometry']
+sample {"TOWN": "EASTHAM", "TOWN_ID": "86", "TYPE": "T", "COUNTY": "BARNSTABLE", "FIPS_STCO": "25001", "FOURCOLOR": "4", "AREA_ACRES": "1.807", "AREA_SQMI": "0.003", "ISLAND": "1", "COASTAL_PO": "NO", "SHAPE_Leng": "396.854752557", "SHAPE_Area": "7313.69830011"}
+geom {'Polygon': 1239} bounds [np.float64(33863.73250000179), np.float64(777606.3746000007), np.float64(330836.9724999964), np.float64(959743.0445999987)]
+
+### towns.zip:TOWNSSURVEY_POLYM.shp rows 351 crs EPSG:26986
+columns ['TOWN', 'TOWN_ID', 'TYPE', 'COUNTY', 'FIPS_STCO', 'FOURCOLOR', 'POP1960', 'POP1970', 'POP1980', 'POP1990', 'POP2000', 'POP2010', 'POP2020', 'POPCH10_20', 'AREA_ACRES', 'AREA_SQMI', 'SHAPE_Leng', 'SHAPE_Area', 'geometry']
+sample {"TOWN": "TOLLAND", "TOWN_ID": "297", "TYPE": "T", "COUNTY": "HAMPDEN", "FIPS_STCO": "25013", "FOURCOLOR": "3", "POP1960": "101", "POP1970": "172", "POP1980": "235", "POP1990": "289", "POP2000": "426", "POP2010": "485", "POP2020": "471", "POPCH10_20": "-14", "AREA_ACRES": "20999.966", "AREA_SQMI": "32.812", "SHAPE_Leng": "38616.4451833", "SHAPE_Area": "84983826.5325"}
+geom {'Polygon': 285, 'MultiPolygon': 66} bounds [np.float64(33863.73250000179), np.float64(777606.3746000007), np.float64(330836.9724999964), np.float64(959743.0445999987)]
+
+### towns.zip:TOWNSSURVEY_POLYM_GENCOAST.shp rows 351 crs EPSG:26986
+columns ['TOWN', 'TOWN_ID', 'TYPE', 'COUNTY', 'FIPS_STCO', 'FOURCOLOR', 'POP1960', 'POP1970', 'POP1980', 'POP1990', 'POP2000', 'POP2010', 'POP2020', 'POPCH10_20', 'AREA_ACRES', 'AREA_SQMI', 'SHAPE_Leng', 'SHAPE_Area', 'geometry']
+sample {"TOWN": "SEEKONK", "TOWN_ID": "265", "TYPE": "T", "COUNTY": "BRISTOL", "FIPS_STCO": "25005", "FOURCOLOR": "2", "POP1960": "8399", "POP1970": "11116", "POP1980": "12269", "POP1990": "13046", "POP2000": "13425", "POP2010": "13722", "POP2020": "15531", "POPCH10_20": "1809", "AREA_ACRES": "11932.581", "AREA_SQMI": "18.645", "SHAPE_Leng": "36129.4140613", "SHAPE_Area": "48289466.8644"}
+geom {'Polygon': 316, 'MultiPolygon': 35} bounds [np.float64(33863.73250000179), np.float64(777606.3746000007), np.float64(330810.15314077114), np.float64(959743.0445999987)]
+
+### towns.zip:TOWNSSURVEY_PT.shp rows 3401 crs EPSG:26986
+columns ['CORNER', 'ID1', 'NORTH83', 'EAST83', 'USE', 'geometry']
+sample {"CORNER": "BEDFORD-LEXINGTON-LINCOLN", "ID1": "545", "NORTH83": "912155.495", "EAST83": "218695.739", "USE": "Yes"}
+geom {'Point': 3401} bounds [np.float64(33863.73250000179), np.float64(785072.3946000002), np.float64(330794.6225000024), np.float64(959743.0445999987)]
+
+ZIP sldu.zip ['tl_2024_25_sldu.shp']
+
+### sldu.zip:tl_2024_25_sldu.shp rows 40 crs EPSG:4269
+columns ['STATEFP', 'SLDUST', 'GEOID', 'GEOIDFQ', 'NAMELSAD', 'LSAD', 'LSY', 'MTFCC', 'FUNCSTAT', 'ALAND', 'AWATER', 'INTPTLAT', 'INTPTLON', 'geometry']
+sample {"STATEFP": "25", "SLDUST": "D01", "GEOID": "25D01", "GEOIDFQ": "610U900US25D01", "NAMELSAD": "Berkshire-Hampden-Franklin-Hampshire District", "LSAD": "07", "LSY": "2024", "MTFCC": "G5210", "FUNCSTAT": "N", "ALAND": "4264558583", "AWATER": "77371152", "INTPTLAT": "+42.3912819", "INTPTLON": "-073.0506820"}
+geom {'Polygon': 38, 'MultiPolygon': 2} bounds [np.float64(-73.50821), np.float64(41.187053), np.float64(-69.858861), np.float64(42.886778)]
+
+ZIP sldl.zip ['tl_2024_25_sldl.shp']
+
+### sldl.zip:tl_2024_25_sldl.shp rows 161 crs EPSG:4269
+columns ['STATEFP', 'SLDLST', 'GEOID', 'GEOIDFQ', 'NAMELSAD', 'LSAD', 'LSY', 'MTFCC', 'FUNCSTAT', 'ALAND', 'AWATER', 'INTPTLAT', 'INTPTLON', 'geometry']
+sample {"STATEFP": "25", "SLDLST": "003", "GEOID": "25003", "GEOIDFQ": "620L900US25003", "NAMELSAD": "3rd Barnstable District", "LSAD": "07", "LSY": "2024", "MTFCC": "G5220", "FUNCSTAT": "N", "ALAND": "179292245", "AWATER": "52455616", "INTPTLAT": "+41.6359050", "INTPTLON": "-070.5558081"}
+geom {'Polygon': 158, 'MultiPolygon': 3} bounds [np.float64(-73.50821), np.float64(41.187053), np.float64(-69.858861), np.float64(42.886778)]
+
+ZIP cd.zip ['tl_2024_25_cd119.shp']
+
+### cd.zip:tl_2024_25_cd119.shp rows 9 crs EPSG:4269
+columns ['STATEFP', 'CD119FP', 'GEOID', 'GEOIDFQ', 'NAMELSAD', 'LSAD', 'CDSESSN', 'MTFCC', 'FUNCSTAT', 'ALAND', 'AWATER', 'INTPTLAT', 'INTPTLON', 'geometry']
+sample {"STATEFP": "25", "CD119FP": "03", "GEOID": "2503", "GEOIDFQ": "5001900US2503", "NAMELSAD": "Congressional District 3", "LSAD": "C2", "CDSESSN": "119", "MTFCC": "G5200", "FUNCSTAT": "N", "ALAND": "1943427502", "AWATER": "74361353", "INTPTLAT": "+42.5843006", "INTPTLON": "-071.5895235"}
+geom {'Polygon': 9} bounds [np.float64(-73.50821), np.float64(41.187053), np.float64(-69.858861), np.float64(42.886778)]
+dorchester col ['name'] ['Dorchester']
