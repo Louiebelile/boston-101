@@ -1,0 +1,202 @@
+[
+  {
+    "id": "d01bebadca584c249960f1eb6080f88c",
+    "title": "Boston 3D Buildings (Existing)",
+    "type": "Scene Service",
+    "owner": "jcowart_bpda",
+    "url": "https://tiles.arcgis.com/tiles/sFnw0xNflSi8J0uh/arcgis/rest/services/Bos3d_Existing_MP/SceneServer",
+    "numViews": 11892
+  },
+  {
+    "id": "6cc58a768b8d4385ab318368930b23bf",
+    "title": "Boston 3D Buildings (Development Projects)",
+    "type": "Scene Service",
+    "owner": "jcowart_bpda",
+    "url": "https://tiles.arcgis.com/tiles/sFnw0xNflSi8J0uh/arcgis/rest/services/Bos3d_DevProjects_MP_20160319/SceneServer",
+    "numViews": 7447
+  },
+  {
+    "id": "05a9c87d553344d59b20508f28dac6d7",
+    "title": "Boston 3D Buildings (Future)",
+    "type": "Scene Service",
+    "owner": "jcowart_bpda",
+    "url": "https://tiles.arcgis.com/tiles/sFnw0xNflSi8J0uh/arcgis/rest/services/Future_MP_20241101/SceneServer",
+    "numViews": 7061
+  },
+  {
+    "id": "e61bed4f1bfe4735887bf0be1bf9e6b9",
+    "title": "Boston_3D_Buildings",
+    "type": "Scene Service",
+    "owner": "urban_sandbox_prod",
+    "url": "https://services5.arcgis.com/04gBMzU1FtxfoDdi/arcgis/rest/services/Boston_3D_Buildings/SceneServer",
+    "numViews": 67672
+  },
+  {
+    "id": "9f844561575b483db28cfdd91db9be0a",
+    "title": "Boston_3D_Buildings",
+    "type": "Feature Service",
+    "owner": "urban_sandbox_prod",
+    "url": "https://services5.arcgis.com/04gBMzU1FtxfoDdi/arcgis/rest/services/Boston_3D_Buildings/FeatureServer",
+    "numViews": 58702
+  },
+  {
+    "id": "b3d0e6f64c324b329175a56b447b5e17",
+    "title": "Boston_3D_Buildings",
+    "type": "Scene Service",
+    "owner": "Urban_Dominik",
+    "url": "https://services9.arcgis.com/ZpmTCcECcEOnkrrK/arcgis/rest/services/Boston_3D_Buildings/SceneServer",
+    "numViews": 1484
+  },
+  {
+    "id": "21105ddb176444019eeedafd1a87c8e7",
+    "title": "Boston_3D_Buildings",
+    "type": "Scene Service",
+    "owner": "scene_viewer",
+    "url": "https://tiles.arcgis.com/tiles/cFEFS0EWrhfDeVw9/arcgis/rest/services/Boston_3D_Buildings/SceneServer",
+    "numViews": 3976
+  },
+  {
+    "id": "c177c65732c24e8c9011f46ce6998317",
+    "title": "Boston 3D Buildings (BPDA)",
+    "type": "Web Scene",
+    "owner": "aziskin",
+    "url": "",
+    "numViews": 650
+  },
+  {
+    "id": "7060f4f1ecff4df6895021879bec2481",
+    "title": "Boston3D_Buildings_Masked",
+    "type": "Scene Service",
+    "owner": "jshriqui_zurich",
+    "url": "https://services2.arcgis.com/cFEFS0EWrhfDeVw9/arcgis/rest/services/Boston3D_Buildings_Masked/SceneServer",
+    "numViews": 325
+  },
+  {
+    "id": "aeb58e1d0e3e4981a8ba1be6a653b5b9",
+    "title": "Boston_3D_Buildings_Selection",
+    "type": "Scene Service",
+    "owner": "Urban_Dominik",
+    "url": "https://services9.arcgis.com/ZpmTCcECcEOnkrrK/arcgis/rest/services/Boston_3D_Buildings_Selection/SceneServer",
+    "numViews": 35
+  },
+  {
+    "id": "f76f6cd2b91d4c5eb8176066a595b548",
+    "title": "Boston 3D Buildings",
+    "type": "Scene Service",
+    "owner": "steve.mulberry@nv5.com",
+    "url": "https://services.arcgis.com/41TSzUbTxELRIXMD/arcgis/rest/services/Boston_3D_Buildings/SceneServer",
+    "numViews": 833
+  },
+  {
+    "id": "9c03ce3e52d34445b72f1d458566ffcc",
+    "title": "Boston 3D Buildings (Urban)",
+    "type": "Scene Service",
+    "owner": "jcowart_bpda",
+    "url": "https://tiles.arcgis.com/tiles/sFnw0xNflSi8J0uh/arcgis/rest/services/Bos3d_Existing_SLPK_20260610_2026_06_11_10_40/SceneServer",
+    "numViews": 96
+  },
+  {
+    "id": "b963221e4c4349fab59bd266b344a3fe",
+    "title": "Boston 3D Buildings",
+    "type": "Feature Service",
+    "owner": "steve.mulberry@nv5.com",
+    "url": "https://services.arcgis.com/41TSzUbTxELRIXMD/arcgis/rest/services/Boston_3D_Buildings/FeatureServer",
+    "numViews": 1586
+  },
+  {
+    "id": "26ed156838164b48802b9981bd369eb2",
+    "title": "Boston  - 3D Buildings",
+    "type": "Web Scene",
+    "owner": "166588_boston",
+    "url": "",
+    "numViews": 206
+  },
+  {
+    "id": "3b794ab05d234ac184a1b683849151d9",
+    "title": "Boston 3D Buildings",
+    "type": "Layer Package",
+    "owner": "demo.esri_vricon3d",
+    "url": null,
+    "numViews": 5
+  },
+  {
+    "id": "e0f6a955a0cf4d8c8ceda66f96034ea5",
+    "title": "Copy of Boston 3D Buildings - Daylight by BRAmaps",
+    "type": "Web Scene",
+    "owner": "shubham_lakhotia",
+    "url": null,
+    "numViews": 74
+  },
+  {
+    "id": "01bb1118ba89455c8e077cf23edbc1e8",
+    "title": "Boston_3D_Buildings__all_WGS84",
+    "type": "Feature Service",
+    "owner": "Urban_Arno",
+    "url": "https://servicesdev.arcgis.com/r0I0JKe3OLRdkKyK/arcgis/rest/services/Boston_3D_Buildings__all_WGS84/FeatureServer",
+    "numViews": 362
+  },
+  {
+    "id": "363e17f30c824a0d8c38f64f240dd4d8",
+    "title": "Boston_3D_Buildings__all_WGS84",
+    "type": "Scene Service",
+    "owner": "urban_thierry",
+    "url": "https://services9.arcgis.com/ZpmTCcECcEOnkrrK/arcgis/rest/services/Boston_3D_Buildings__all_WGS84/SceneServer",
+    "numViews": 54
+  },
+  {
+    "id": "a3c314d7da874e598b8e52955f5a1201",
+    "title": "Boston_3D_Buildings__all_WGS84",
+    "type": "Feature Service",
+    "owner": "urban_thierry",
+    "url": "https://services9.arcgis.com/ZpmTCcECcEOnkrrK/arcgis/rest/services/Boston_3D_Buildings__all_WGS84/FeatureServer",
+    "numViews": 49
+  },
+  {
+    "id": "f28f68d3b72f4c5bb24170efc869af7b",
+    "title": "Boston_3D_Buildings__all_WGS84",
+    "type": "Scene Service",
+    "owner": "Urban_Arno",
+    "url": "https://servicesdev.arcgis.com/r0I0JKe3OLRdkKyK/arcgis/rest/services/Boston_3D_Buildings__all_WGS84/SceneServer",
+    "numViews": 269
+  },
+  {
+    "id": "283eb2dd309044f48694f43a9bebb5de",
+    "title": "Boston 3D Buildings App",
+    "type": "Document Link",
+    "owner": "jfindlaya@esriuk.com_Greenshoots",
+    "url": "https://boston.maps.arcgis.com/apps/webappviewer3d/index.html?id=cf3415dea19d480caa71eb5dbdce185f",
+    "numViews": 12
+  },
+  {
+    "id": "d624b5e27a2949979175687204bbac0c",
+    "title": "Boston_Existing_Buildings",
+    "type": "Feature Service",
+    "owner": "urban_sandbox_prod",
+    "url": "https://services5.arcgis.com/04gBMzU1FtxfoDdi/arcgis/rest/services/Boston_Existing_Buildings/FeatureServer",
+    "numViews": 143359
+  },
+  {
+    "id": "77968b662a894a1aa598a0a84bf3db0a",
+    "title": "Boston_3D_Buildings",
+    "type": "Scene Service",
+    "owner": "raluca1",
+    "url": "https://tiles.arcgis.com/tiles/cFEFS0EWrhfDeVw9/arcgis/rest/services/Boston_3D_Buildings/SceneServer",
+    "numViews": 16
+  },
+  {
+    "id": "202013b95f7e43049956abc343dc1aa0",
+    "title": "Boston 3D Buildings 2/15/17",
+    "type": "Web Mapping Application",
+    "owner": "vrosenbe",
+    "url": "https://www.arcgis.com/apps/3DScene/index.html?appid=202013b95f7e43049956abc343dc1aa0",
+    "numViews": 27
+  },
+  {
+    "id": "fb4de1a2a2d34551b442938cc45f2bad",
+    "title": "Boston 3D Buildings",
+    "type": "File Geodatabase",
+    "owner": "steve.mulberry@nv5.com",
+    "url": null,
+    "numViews": 3
+  }
+]

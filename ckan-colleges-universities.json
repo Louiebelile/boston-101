@@ -1,0 +1,110 @@
+[
+  {
+    "name": "colleges-and-universities",
+    "title": "Colleges and Universities",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/7624a2d6-ca74-4fc1-9bba-d6e89d4ca9c7/resource/139b6ce0-ef39-48c7-aeb3-7b7f67b9d8af/download/colleges_and_universities.geojson",
+        "id": "139b6ce0-ef39-48c7-aeb3-7b7f67b9d8af",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/7624a2d6-ca74-4fc1-9bba-d6e89d4ca9c7/resource/f59456d7-4b3d-407d-9fcd-4a6ae473afcb/download/colleges_and_universities.csv",
+        "id": "f59456d7-4b3d-407d-9fcd-4a6ae473afcb",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Education/OpenData/MapServer/2",
+        "id": "7d054668-4e1b-4e2b-979e-bfa8add47d5d",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::colleges-and-universities",
+        "id": "40bf4bf0-af70-432c-92b2-efd492f1c897",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/7624a2d6-ca74-4fc1-9bba-d6e89d4ca9c7/resource/07dc0642-2dc9-4d3a-aa0d-02536438230a/download/colleges_and_universities.kmz",
+        "id": "07dc0642-2dc9-4d3a-aa0d-02536438230a",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/7624a2d6-ca74-4fc1-9bba-d6e89d4ca9c7/resource/69aa24b8-e3e1-4a35-9975-1c879ab831ba/download/colleges_and_universities.zip",
+        "id": "69aa24b8-e3e1-4a35-9975-1c879ab831ba",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "historical-boston-population-estimates-1950-2020-tract-level",
+    "title": "Historical Boston Population Estimates 1950-2020 (Tract Level)",
+    "resources": [
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/1808e109-9be1-48b3-84aa-ca26878d520b/resource/03ddaa50-b3fb-4958-9a1d-06e362c3ba1a/download/tract_level_1950_2020.zip",
+        "id": "03ddaa50-b3fb-4958-9a1d-06e362c3ba1a",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/1808e109-9be1-48b3-84aa-ca26878d520b/resource/9f04bd4f-7310-40f0-89e0-8f6e9cfe1c89/download/nbhdchangedatadictionary.xlsx",
+        "id": "9f04bd4f-7310-40f0-89e0-8f6e9cfe1c89",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "historical-boston-population-estimates-1950-2020-city-level",
+    "title": "Historical Boston Population Estimates 1950-2020 (City Level)",
+    "resources": [
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/633d7d88-75c7-49c7-91ac-045f75247d77/resource/ec645659-e3b6-408d-b240-9b8008fdf0b0/download/city_level_1950_2020.zip",
+        "id": "ec645659-e3b6-408d-b240-9b8008fdf0b0",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/633d7d88-75c7-49c7-91ac-045f75247d77/resource/6a98c27e-3599-45d0-98f8-608096d4ec5c/download/nbhdchangedatadictionary.xlsx",
+        "id": "6a98c27e-3599-45d0-98f8-608096d4ec5c",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "historical-boston-population-estimates-1950-2020-neighborhood-level",
+    "title": "Historical Boston Population Estimates 1950-2020 (Neighborhood Level)",
+    "resources": [
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/e39175ba-f394-445d-bec1-ef340019a603/resource/8ad2871a-fd99-416d-aacf-1b420346d218/download/neighborhood_level_1950_2020.zip",
+        "id": "8ad2871a-fd99-416d-aacf-1b420346d218",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/e39175ba-f394-445d-bec1-ef340019a603/resource/76e0addd-d191-4084-918b-143893f62b42/download/nbhdchangedatadictionary.xlsx",
+        "id": "76e0addd-d191-4084-918b-143893f62b42",
+        "datastore_active": true
+      }
+    ]
+  }
+]

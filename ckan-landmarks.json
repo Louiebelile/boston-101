@@ -1,0 +1,125 @@
+[
+  {
+    "name": "boston-landmarks-commission-blc-landmarks",
+    "title": "Boston Landmarks Commission (BLC) Landmarks",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/92137315-e846-4c75-8c3d-2b7e93e38d03/resource/3660f6e1-4633-4c9f-aa21-1e6939626069/download/boston_landmarks_commission_blc_landmarks.geojson",
+        "id": "3660f6e1-4633-4c9f-aa21-1e6939626069",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/92137315-e846-4c75-8c3d-2b7e93e38d03/resource/fb53d967-ead6-4b4e-ab17-506521434038/download/boston_landmarks_commission_blc_landmarks.csv",
+        "id": "fb53d967-ead6-4b4e-ab17-506521434038",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/ISD/landmarks_historic_districts_viewing/MapServer/0",
+        "id": "faa6faec-7561-460d-a531-2b477d269620",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-landmarks-commission-blc-landmarks",
+        "id": "85af5318-f929-4437-9263-816725d771c9",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/92137315-e846-4c75-8c3d-2b7e93e38d03/resource/c5cd0ddc-a6dc-4843-86e9-6bff6933966a/download/boston_landmarks_commission_blc_landmarks.kmz",
+        "id": "c5cd0ddc-a6dc-4843-86e9-6bff6933966a",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/92137315-e846-4c75-8c3d-2b7e93e38d03/resource/eae30183-8a35-40b6-bd94-b7ed3833f527/download/boston_landmarks_commission_blc_landmarks.zip",
+        "id": "eae30183-8a35-40b6-bd94-b7ed3833f527",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "boston-landmarks-commission-blc-historic-districts",
+    "title": "Boston Landmarks Commission (BLC) Historic Districts",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/a30e72b5-ff9f-4219-9ed1-d82e5382e914/resource/a3a58feb-e355-4fd0-a12d-47e3d0a311dd/download/boston_landmarks_commission_blc_historic_districts.geojson",
+        "id": "a3a58feb-e355-4fd0-a12d-47e3d0a311dd",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/a30e72b5-ff9f-4219-9ed1-d82e5382e914/resource/d3400713-ac2f-4a2b-93c7-28463c539903/download/boston_landmarks_commission_blc_historic_districts.csv",
+        "id": "d3400713-ac2f-4a2b-93c7-28463c539903",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/EnvironmentEnergy/OpenData/MapServer/4",
+        "id": "98d96685-0653-4371-9da5-969bc5309c66",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-landmarks-commission-blc-historic-districts",
+        "id": "5b0ff38b-04ad-47b8-83bc-27b6152aade3",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/a30e72b5-ff9f-4219-9ed1-d82e5382e914/resource/d124372e-47ed-41cb-9241-0014b450b071/download/boston_landmarks_commission_blc_historic_districts.kmz",
+        "id": "d124372e-47ed-41cb-9241-0014b450b071",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/a30e72b5-ff9f-4219-9ed1-d82e5382e914/resource/6fc404d3-a547-439e-b13a-7d83380369ce/download/boston_landmarks_commission_blc_historic_districts.zip",
+        "id": "6fc404d3-a547-439e-b13a-7d83380369ce",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "zoning-reform-impact-tracker",
+    "title": "Zoning Reform Impact Tracker",
+    "resources": [
+      {
+        "name": "Zoning Reform Impact Tracker",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/91d1ac26-bc94-42de-aea8-2b157708152d/resource/f9b736f2-60da-4240-b793-f9b498eb475e/download/tmpwd8p3ahu.csv",
+        "id": "f9b736f2-60da-4240-b793-f9b498eb475e",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/91d1ac26-bc94-42de-aea8-2b157708152d/resource/580ec03a-0894-42dd-958e-5156229ddb34/download/citywide-zoning-reform-impact-tracker-data-dictionary-pdf.pdf",
+        "id": "580ec03a-0894-42dd-958e-5156229ddb34",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "DOCX",
+        "url": "https://data.boston.gov/dataset/91d1ac26-bc94-42de-aea8-2b157708152d/resource/e7bf90cc-f15e-4aa3-bd53-b969f257e6a5/download/citywide-zoning-reform-impact-tracker-data-dictionary-docx.docx",
+        "id": "e7bf90cc-f15e-4aa3-bd53-b969f257e6a5",
+        "datastore_active": false
+      }
+    ]
+  }
+]

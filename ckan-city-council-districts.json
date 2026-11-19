@@ -1,0 +1,435 @@
+[
+  {
+    "name": "city-council-districts-2013-2022",
+    "title": "City Council Districts - 2013-2022",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/2e9748e6-f616-4a9d-ba3e-ff9d7beca73f/download/city_council_districts___2013_2022.geojson",
+        "id": "2e9748e6-f616-4a9d-ba3e-ff9d7beca73f",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/5cc5f01a-ac01-4297-b1bc-5d4f98d84af1/download/city_council_districts___2013_2022.csv",
+        "id": "5cc5f01a-ac01-4297-b1bc-5d4f98d84af1",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/7dc47e49e35b41f3be9e2e0bdd4940f1/shapefile?layers=4",
+        "id": "75e9aa57-2e55-4438-bd81-4d7b5e4c1351",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Planning/OpenData/MapServer/4",
+        "id": "b9831a12-62a2-41d2-bd0b-256243ba3996",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::city-council-districts-2013-2022",
+        "id": "7378e289-7be6-41b0-a417-69d1d3e04d5b",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::city-council-districts-2013-2022",
+        "id": "4a2af770-85df-40f6-ba7c-d11ab3138b9f",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/dbf4b630-60af-4ce6-a154-8f0db049e3bc/download/city_council_districts___2013_2022.kmz",
+        "id": "dbf4b630-60af-4ce6-a154-8f0db049e3bc",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/746a8d07-59c5-4c2f-bf56-f3779b711cec/download/city_council_districts___2013_2022.zip",
+        "id": "746a8d07-59c5-4c2f-bf56-f3779b711cec",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "city-council-districts-2023-2032",
+    "title": "City Council Districts - 2023-2032",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/3e632d04-d7fe-4acd-bab7-75be4bdcfa96/resource/2d9092dd-5175-49ab-9b18-0c0efcef4153/download/city_council_districts___2023_2032.geojson",
+        "id": "2d9092dd-5175-49ab-9b18-0c0efcef4153",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/3e632d04-d7fe-4acd-bab7-75be4bdcfa96/resource/dd075062-4135-4e04-95e1-3a8d9235f82e/download/city_council_districts___2023_2032.csv",
+        "id": "dd075062-4135-4e04-95e1-3a8d9235f82e",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/CityCouncilDistricts_2023_5_25/FeatureServer",
+        "id": "443d4b1c-910f-47a2-80a8-e28f8dcd1ef4",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::city-council-districts-2023-2032",
+        "id": "84ddccc3-566e-4e56-bc62-1f78207fc576",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/3e632d04-d7fe-4acd-bab7-75be4bdcfa96/resource/2cff1247-c627-4d54-9160-66548ff7e357/download/city_council_districts___2023_2032.kmz",
+        "id": "2cff1247-c627-4d54-9160-66548ff7e357",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/3e632d04-d7fe-4acd-bab7-75be4bdcfa96/resource/c3a12b81-9c84-4ef5-8bcf-f8623daec6a0/download/city_council_districts___2023_2032.zip",
+        "id": "c3a12b81-9c84-4ef5-8bcf-f8623daec6a0",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "city-council-districts-november-2022-approved-plan",
+    "title": "City Council Districts - November 2022 Approved Plan",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/a8f2a646-59c6-4794-9f2b-a05c37375de1/resource/8564dc1c-1de9-484b-919c-cec58322cf80/download/city_council_districts___november_2022_approved_plan.geojson",
+        "id": "8564dc1c-1de9-484b-919c-cec58322cf80",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/a8f2a646-59c6-4794-9f2b-a05c37375de1/resource/8b5b9b05-921c-4868-a36d-84b41b6c791f/download/city_council_districts___november_2022_approved_plan.csv",
+        "id": "8b5b9b05-921c-4868-a36d-84b41b6c791f",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/af7d4fa731444b6295f0ec970295bc48/shapefile?layers=0",
+        "id": "ceba7709-6067-4a32-9adb-cbc970475d40",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Docket 1275 Committee Report/FeatureServer",
+        "id": "a1980edf-a19f-42dd-a6de-8a4d7a6522eb",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::city-council-districts-november-2022-approved-plan",
+        "id": "7a83467d-535f-4623-b256-156f4cc25712",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::city-council-districts-november-2022-approved-plan",
+        "id": "adbfe440-bda0-4a3f-81f5-179eeafeaaec",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/a8f2a646-59c6-4794-9f2b-a05c37375de1/resource/3a43f66a-4952-4776-81bd-dcaa4d7b2fee/download/city_council_districts___november_2022_approved_plan.kmz",
+        "id": "3a43f66a-4952-4776-81bd-dcaa4d7b2fee",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/a8f2a646-59c6-4794-9f2b-a05c37375de1/resource/8b12b0d7-3834-4e58-b785-45c796ba4843/download/city_council_districts___november_2022_approved_plan.zip",
+        "id": "8b12b0d7-3834-4e58-b785-45c796ba4843",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "city-council-roll-call-votes",
+    "title": "City Council Roll Call Votes",
+    "resources": [
+      {
+        "name": "City Council Roll Call Votes",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/85da310a-83b5-4588-a378-95dd4169892c/resource/e41f49ac-5233-487e-976c-3c2d8f6e1c8e/download/tmpkpgd10di.csv",
+        "id": "e41f49ac-5233-487e-976c-3c2d8f6e1c8e",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "proposed-city-council-redistricting-plan-councilor-murphy-docket-1215",
+    "title": "Proposed City Council Redistricting Plan Councilor Murphy (Docket #1215)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/307f938f-c4e8-480d-a28d-63808f4a9379/resource/57641c0a-519f-4599-92a1-77e509a7215c/download/proposed_city_council_redistricting_plan_councilor_murphy__docket__1215_.geojson",
+        "id": "57641c0a-519f-4599-92a1-77e509a7215c",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/307f938f-c4e8-480d-a28d-63808f4a9379/resource/232cfb0c-f191-440b-bdcb-ce0ad93a7ce9/download/proposed_city_council_redistricting_plan_councilor_murphy__docket__1215_.csv",
+        "id": "232cfb0c-f191-440b-bdcb-ce0ad93a7ce9",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/855313b3919c46d7aeb3310dc822cb6b/shapefile?layers=0",
+        "id": "a9299bc3-b6b9-4e49-8bf4-38d33e132d82",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Proposed City Council Redistricting Plan Councilor Murphy/FeatureServer",
+        "id": "f0c1ca77-802c-4b44-9dee-fd93bb273dd8",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::proposed-city-council-redistricting-plan-councilor-murphy-docket-1215",
+        "id": "b8b833c3-49a1-4170-98ec-04f8e44bfaaa",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::proposed-city-council-redistricting-plan-councilor-murphy-docket-1215",
+        "id": "016650d2-1d80-4e88-82c6-e03f33c80fb2",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/307f938f-c4e8-480d-a28d-63808f4a9379/resource/40ec24c1-1f24-4efd-aeb0-58f588415d92/download/proposed_city_council_redistricting_plan_councilor_murphy__docket__1215_.kmz",
+        "id": "40ec24c1-1f24-4efd-aeb0-58f588415d92",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/307f938f-c4e8-480d-a28d-63808f4a9379/resource/838aa26e-55b4-4efd-a9db-7c3e9270e029/download/proposed_city_council_redistricting_plan_councilor_murphy__docket__1215_.zip",
+        "id": "838aa26e-55b4-4efd-a9db-7c3e9270e029",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "proposed-city-council-redistricting-plan-councilor-flaherty-docket-1351",
+    "title": "Proposed City Council Redistricting Plan Councilor Flaherty (Docket #1351)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/6b9e1991-a820-478d-a383-6cafc68b25ed/resource/afb5383e-9a82-416d-b035-6a8e4ece9326/download/proposed_city_council_redistricting_plan_councilor_flaherty__docket__1351_.geojson",
+        "id": "afb5383e-9a82-416d-b035-6a8e4ece9326",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/6b9e1991-a820-478d-a383-6cafc68b25ed/resource/5a0cd3e3-6ff2-46b1-b281-c9cad26d951e/download/proposed_city_council_redistricting_plan_councilor_flaherty__docket__1351_.csv",
+        "id": "5a0cd3e3-6ff2-46b1-b281-c9cad26d951e",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/e5f1119c07ad4fddab5990a806ec5dbf/shapefile?layers=0",
+        "id": "5baea9b2-db3a-418c-bba5-a3e3dbca2308",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/UPDATED Flaherty Map - Docket 1351/FeatureServer",
+        "id": "e9c73f0d-0e4c-4313-98a7-ec5348607ac4",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::proposed-city-council-redistricting-plan-councilor-flaherty-docket-1351",
+        "id": "0b82b193-1583-47a5-8d6d-49aab5232237",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::proposed-city-council-redistricting-plan-councilor-flaherty-docket-1351",
+        "id": "ea383efc-de4e-4238-98e9-2b662da17ca9",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/6b9e1991-a820-478d-a383-6cafc68b25ed/resource/2eb64c4f-b2aa-475c-ac15-c45a5aad4b43/download/proposed_city_council_redistricting_plan_councilor_flaherty__docket__1351_.kmz",
+        "id": "2eb64c4f-b2aa-475c-ac15-c45a5aad4b43",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/6b9e1991-a820-478d-a383-6cafc68b25ed/resource/d887b923-cd35-4c62-af76-5cac5edc2d8c/download/proposed_city_council_redistricting_plan_councilor_flaherty__docket__1351_.zip",
+        "id": "d887b923-cd35-4c62-af76-5cac5edc2d8c",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "city-council-redistricting-baseline-09-20-22-docket-1098",
+    "title": "City Council redistricting Baseline 09_20_22 - Docket #1098",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/b1739ebb-7211-43e4-a1fc-8416a39967fc/resource/71e17cc8-b633-4489-befb-5b16cb57e8ca/download/city_council_redistricting_baseline_09_20_22___docket_1098.geojson",
+        "id": "71e17cc8-b633-4489-befb-5b16cb57e8ca",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/b1739ebb-7211-43e4-a1fc-8416a39967fc/resource/308666e8-6c89-4c73-af8e-6cb7c752429d/download/city_council_redistricting_baseline_09_20_22___docket_1098.csv",
+        "id": "308666e8-6c89-4c73-af8e-6cb7c752429d",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/618d1504aa5b46d885d51c38a1e3cde1/shapefile?layers=0",
+        "id": "ae37b14c-f686-4841-891b-bb8005a2098a",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/City Council redistricting working session 09_20_22/FeatureServer",
+        "id": "3e628f3f-34d6-48a1-9130-1ef2b0c92207",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::city-council-redistricting-baseline-09-20-22-docket-1098",
+        "id": "d4289d5a-6276-46fe-a816-0c66ed0734d2",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::city-council-redistricting-baseline-09-20-22-docket-1098",
+        "id": "29558745-552e-4efb-8af2-a95913516ed3",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/b1739ebb-7211-43e4-a1fc-8416a39967fc/resource/8b6aaf47-94d6-4613-baa8-eda776a75c4c/download/city_council_redistricting_baseline_09_20_22___docket_1098.kmz",
+        "id": "8b6aaf47-94d6-4613-baa8-eda776a75c4c",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/b1739ebb-7211-43e4-a1fc-8416a39967fc/resource/8d66a80c-8e92-47c7-a8d8-7575df0aea74/download/city_council_redistricting_baseline_09_20_22___docket_1098.zip",
+        "id": "8d66a80c-8e92-47c7-a8d8-7575df0aea74",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "proposed-city-council-redistricting-plan-councilor-arroyo-anderson-docket-1186",
+    "title": "Proposed City Council Redistricting Plan Councilor Arroyo Anderson (Docket #1186)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/1de23ec6-5809-4aac-97ab-dd65fa5d6a27/resource/b617b383-b5af-4e57-9aa2-dfc3e50b16c4/download/proposed_city_council_redistricting_plan_councilor_arroyo_anderson__docket__1186_.geojson",
+        "id": "b617b383-b5af-4e57-9aa2-dfc3e50b16c4",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/1de23ec6-5809-4aac-97ab-dd65fa5d6a27/resource/a2086249-03cc-4fa8-a63c-5dc1927ee451/download/proposed_city_council_redistricting_plan_councilor_arroyo_anderson__docket__1186_.csv",
+        "id": "a2086249-03cc-4fa8-a63c-5dc1927ee451",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/056b2e07712240efb3504b7d2f1e4042/shapefile?layers=0",
+        "id": "2de6d041-8674-4dad-a815-7f4a9fa163a8",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/ec_Proposed_City_Council_Redistricting_Plan_Councilor_Arroyo_09_28_22_2022_9_6_14_54_42/FeatureServer",
+        "id": "7f544fd2-ca10-4ffa-be97-04913ecfb2ef",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::proposed-city-council-redistricting-plan-councilor-arroyo-anderson-docket-1186-1",
+        "id": "fd047602-5324-4840-8fb8-0b2715278657",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::proposed-city-council-redistricting-plan-councilor-arroyo-anderson-docket-1186-1",
+        "id": "a8477796-ad04-434f-9461-f10a3e661a9b",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/1de23ec6-5809-4aac-97ab-dd65fa5d6a27/resource/282903b0-e9d5-4937-b94b-37959f0b8f60/download/proposed_city_council_redistricting_plan_councilor_arroyo_anderson__docket__1186_.kmz",
+        "id": "282903b0-e9d5-4937-b94b-37959f0b8f60",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/1de23ec6-5809-4aac-97ab-dd65fa5d6a27/resource/02af5f96-5b41-428e-84b8-7e3fc37fe2c4/download/proposed_city_council_redistricting_plan_councilor_arroyo_anderson__docket__1186_.zip",
+        "id": "02af5f96-5b41-428e-84b8-7e3fc37fe2c4",
+        "datastore_active": false
+      }
+    ]
+  }
+]

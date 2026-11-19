@@ -1,0 +1,118 @@
+[
+  {
+    "name": "article80-development-projects",
+    "title": "Article 80 Development Projects (website)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/f9788baa-9486-4a69-8d0a-91d4b6e1ed9d/resource/c1d0d9f7-ae0f-4213-94a1-4cd6a101cf07/download/article_80_development_projects_website.geojson",
+        "id": "c1d0d9f7-ae0f-4213-94a1-4cd6a101cf07",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/f9788baa-9486-4a69-8d0a-91d4b6e1ed9d/resource/32e3dc10-182d-4f51-bbd9-4c28b525f1ed/download/article_80_development_projects_website.csv",
+        "id": "32e3dc10-182d-4f51-bbd9-4c28b525f1ed",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/A80_project_points_display/FeatureServer",
+        "id": "98567855-503e-4445-8ab3-27bd88685c65",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::article80-development-projects",
+        "id": "53ef9d65-356e-4bc6-9ace-9e8d48801784",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/f9788baa-9486-4a69-8d0a-91d4b6e1ed9d/resource/58c22ba8-03dd-4788-941f-232199c45032/download/article_80_development_projects_website.kmz",
+        "id": "58c22ba8-03dd-4788-941f-232199c45032",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/f9788baa-9486-4a69-8d0a-91d4b6e1ed9d/resource/38438b10-a54c-4051-98a4-b0326dd61fd9/download/article_80_development_projects_website.zip",
+        "id": "38438b10-a54c-4051-98a4-b0326dd61fd9",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "transportation-access-plan-agreements-tapas",
+    "title": "Transportation Access Plan Agreements (TAPAs)",
+    "resources": [
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/39a29509-58fb-401e-9b0e-8fb8cb9ab24a/resource/036092b9-1cc8-4d17-b1bb-d55c193889f2/download/tapa-data-dictionary.pdf",
+        "id": "036092b9-1cc8-4d17-b1bb-d55c193889f2",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "Planning Department Website",
+        "url": "https://apps.bostonplans.org/recordslibrary/",
+        "id": "e4619488-5d4b-4a05-a21b-a238a0deb486",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "zoning-groundwater-conservation-overlay-district-gcod",
+    "title": "Boston Zoning Groundwater Conservation Overlay District (GCOD)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/23a0dd20-22f9-4f89-ba9c-023a39d5353b/resource/25ad3242-6887-4cc9-bb78-e223ed301e7b/download/boston_zoning_groundwater_conservation_overlay_district_gcod.geojson",
+        "id": "25ad3242-6887-4cc9-bb78-e223ed301e7b",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/23a0dd20-22f9-4f89-ba9c-023a39d5353b/resource/0e4d290d-958d-462f-ba66-a4f4e13c9f90/download/boston_zoning_groundwater_conservation_overlay_district_gcod.csv",
+        "id": "0e4d290d-958d-462f-ba66-a4f4e13c9f90",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Zoning_GCOD/FeatureServer",
+        "id": "c69259d9-98d1-4947-9fb8-d50dfa3e1e6d",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::zoning-groundwater-conservation-overlay-district-gcod",
+        "id": "41fcddef-eddf-4c85-b91e-ff7996f66386",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/23a0dd20-22f9-4f89-ba9c-023a39d5353b/resource/40588f77-e410-4ee6-9ed5-e15d04dcf065/download/boston_zoning_groundwater_conservation_overlay_district_gcod.kmz",
+        "id": "40588f77-e410-4ee6-9ed5-e15d04dcf065",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/23a0dd20-22f9-4f89-ba9c-023a39d5353b/resource/7aab648c-800f-401b-9ec0-515a3c225e29/download/boston_zoning_groundwater_conservation_overlay_district_gcod.zip",
+        "id": "7aab648c-800f-401b-9ec0-515a3c225e29",
+        "datastore_active": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "name": "public-schools",
+    "title": "Public Schools",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/4df4b9c7-239d-4643-ac21-a22b42c832df/resource/fd47065d-7f9a-4564-8090-aa9166b1b944/download/public_schools.geojson",
+        "id": "fd47065d-7f9a-4564-8090-aa9166b1b944",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/4df4b9c7-239d-4643-ac21-a22b42c832df/resource/6ceeff38-a0db-46df-b5be-f8cfdea0186d/download/public_schools.csv",
+        "id": "6ceeff38-a0db-46df-b5be-f8cfdea0186d",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Education/OpenData/MapServer/0",
+        "id": "d6751456-7d13-4417-bc5e-d65a021888b4",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::public-schools",
+        "id": "9f87f8e0-32c5-46f8-96dc-3cdff513e324",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/4df4b9c7-239d-4643-ac21-a22b42c832df/resource/ebc59e24-dc11-4f09-8c7b-cbf0faba1940/download/public_schools.kmz",
+        "id": "ebc59e24-dc11-4f09-8c7b-cbf0faba1940",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/4df4b9c7-239d-4643-ac21-a22b42c832df/resource/66bde320-ce6e-43e2-a127-c996f21e87ec/download/public_schools.zip",
+        "id": "66bde320-ce6e-43e2-a127-c996f21e87ec",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "non-public-schools",
+    "title": "Non Public Schools",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/a8944f1a-aa6b-4d0c-8d68-e3b2338a9c34/resource/f6330a35-c451-4d10-90b7-7f038f355699/download/non_public_schools.geojson",
+        "id": "f6330a35-c451-4d10-90b7-7f038f355699",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/a8944f1a-aa6b-4d0c-8d68-e3b2338a9c34/resource/fae7152d-a053-4158-93b4-12828a2c5203/download/non_public_schools.csv",
+        "id": "fae7152d-a053-4158-93b4-12828a2c5203",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Education/OpenData/MapServer/1",
+        "id": "c7d9abbc-336c-49f6-9351-ddf0e26e2dc4",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::non-public-schools",
+        "id": "f73d687c-2371-4487-9044-1b8f08bc2a31",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/a8944f1a-aa6b-4d0c-8d68-e3b2338a9c34/resource/acdfd895-6a27-4815-9a7b-9b8029993d71/download/non_public_schools.kmz",
+        "id": "acdfd895-6a27-4815-9a7b-9b8029993d71",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/a8944f1a-aa6b-4d0c-8d68-e3b2338a9c34/resource/b80c1382-654d-4edf-abe6-69c4da4a1e2c/download/non_public_schools.zip",
+        "id": "b80c1382-654d-4edf-abe6-69c4da4a1e2c",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "buildbps-facilities-and-educational-data-for-boston-public-schools",
+    "title": "BuildBPS: Facilities and Educational Data for Boston Public Schools",
+    "resources": [
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/b2c5a9d3-609d-49ec-906c-b0e850a8d62a/resource/33c5f44a-3c67-4390-a1d5-1bf018e4728c/download/buildbps.csv",
+        "id": "33c5f44a-3c67-4390-a1d5-1bf018e4728c",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b2c5a9d3-609d-49ec-906c-b0e850a8d62a/resource/dd3e5406-0f4c-47ad-9c3d-da1213ccb868/download/buildbps.xlsx",
+        "id": "dd3e5406-0f4c-47ad-9c3d-da1213ccb868",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/b2c5a9d3-609d-49ec-906c-b0e850a8d62a/resource/515ec6c6-cfc4-485c-95a7-ffb522a3c079/download/buildbpsdatakeycurrent.pdf",
+        "id": "515ec6c6-cfc4-485c-95a7-ffb522a3c079",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "historical-boston-population-estimates-1950-2020-tract-level",
+    "title": "Historical Boston Population Estimates 1950-2020 (Tract Level)",
+    "resources": [
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/1808e109-9be1-48b3-84aa-ca26878d520b/resource/03ddaa50-b3fb-4958-9a1d-06e362c3ba1a/download/tract_level_1950_2020.zip",
+        "id": "03ddaa50-b3fb-4958-9a1d-06e362c3ba1a",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/1808e109-9be1-48b3-84aa-ca26878d520b/resource/9f04bd4f-7310-40f0-89e0-8f6e9cfe1c89/download/nbhdchangedatadictionary.xlsx",
+        "id": "9f04bd4f-7310-40f0-89e0-8f6e9cfe1c89",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "historical-boston-population-estimates-1950-2020-city-level",
+    "title": "Historical Boston Population Estimates 1950-2020 (City Level)",
+    "resources": [
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/633d7d88-75c7-49c7-91ac-045f75247d77/resource/ec645659-e3b6-408d-b240-9b8008fdf0b0/download/city_level_1950_2020.zip",
+        "id": "ec645659-e3b6-408d-b240-9b8008fdf0b0",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/633d7d88-75c7-49c7-91ac-045f75247d77/resource/6a98c27e-3599-45d0-98f8-608096d4ec5c/download/nbhdchangedatadictionary.xlsx",
+        "id": "6a98c27e-3599-45d0-98f8-608096d4ec5c",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "historical-boston-population-estimates-1950-2020-neighborhood-level",
+    "title": "Historical Boston Population Estimates 1950-2020 (Neighborhood Level)",
+    "resources": [
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/e39175ba-f394-445d-bec1-ef340019a603/resource/8ad2871a-fd99-416d-aacf-1b420346d218/download/neighborhood_level_1950_2020.zip",
+        "id": "8ad2871a-fd99-416d-aacf-1b420346d218",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/e39175ba-f394-445d-bec1-ef340019a603/resource/76e0addd-d191-4084-918b-143893f62b42/download/nbhdchangedatadictionary.xlsx",
+        "id": "76e0addd-d191-4084-918b-143893f62b42",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "capital-budget",
+    "title": "Capital Plan",
+    "resources": [
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/bb903d90-eacb-4c42-8c03-e25ede06317a/resource/c62d666e-27ea-4c03-9cb1-d3a81a1fb641/download/fy27-31-adopted-capital-plan-open-data-portal.csv",
+        "id": "c62d666e-27ea-4c03-9cb1-d3a81a1fb641",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/bb903d90-eacb-4c42-8c03-e25ede06317a/resource/6dc98699-e7fe-454b-8d52-9afb38e31809/download/fy27-31-capital-plan-data-dictionary.pdf",
+        "id": "6dc98699-e7fe-454b-8d52-9afb38e31809",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "climate-ready-boston-social-vulnerability",
+    "title": "Climate Ready Boston Social Vulnerability",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/34f2c48b670d4b43a617b1540f20efe3/geojson?layers=0",
+        "id": "d7299f72-5eb2-4d70-aa87-710e5b0aedba",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/34f2c48b670d4b43a617b1540f20efe3/csv?layers=0",
+        "id": "3d506197-74e9-4032-a455-fe231ea9daf1",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/34f2c48b670d4b43a617b1540f20efe3/shapefile?layers=0",
+        "id": "613b4fd8-ecaa-4992-96d5-8fe4604a58de",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoService",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Climate_Ready_Boston_Social_Vulnerability/FeatureServer/0",
+        "id": "c1b6d1eb-b606-4f93-a827-8c9e918a5fc7",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::climate-ready-boston-social-vulnerability",
+        "id": "66cf0956-48a0-4c8e-8559-eb3f64080c37",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::climate-ready-boston-social-vulnerability",
+        "id": "41f858bb-1c7c-4117-87ce-883d8a30f2fd",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/34f2c48b670d4b43a617b1540f20efe3/kml?layers=0",
+        "id": "d9fea699-7801-46d2-8b98-d2f13344e096",
+        "datastore_active": false
+      }
+    ]
+  }
+]

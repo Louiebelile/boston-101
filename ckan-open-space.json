@@ -1,0 +1,317 @@
+[
+  {
+    "name": "open-space",
+    "title": "Open Space",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/66a3324e-066f-4caf-897b-a2b4dcb8bc42/resource/ccc038ce-5602-42d0-b4c6-87f60c116ea3/download/open_space.geojson",
+        "id": "ccc038ce-5602-42d0-b4c6-87f60c116ea3",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/66a3324e-066f-4caf-897b-a2b4dcb8bc42/resource/61c0239f-c8fd-47de-8375-2405382ef37c/download/open_space.csv",
+        "id": "61c0239f-c8fd-47de-8375-2405382ef37c",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/BaseServices/Open_Space_Public/MapServer/0",
+        "id": "72522866-da6a-448b-beab-491ba891db43",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::open-space-5",
+        "id": "668b31e1-96a5-41b8-9fcb-67c1889eaf5a",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/66a3324e-066f-4caf-897b-a2b4dcb8bc42/resource/10132b1a-31af-43d4-b69c-1d9556ee0eee/download/open_space.kmz",
+        "id": "10132b1a-31af-43d4-b69c-1d9556ee0eee",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/66a3324e-066f-4caf-897b-a2b4dcb8bc42/resource/e16d39b6-8ebb-4bfd-8e4f-034507e7b73f/download/open_space.zip",
+        "id": "e16d39b6-8ebb-4bfd-8e4f-034507e7b73f",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "park-features",
+    "title": "Park_Features",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/0ab7eb75-f3f3-4aea-8bf1-ae11dbfe1e32/resource/0826fc19-4ff8-44a5-b9c4-916960d8cfb3/download/park_features.geojson",
+        "id": "0826fc19-4ff8-44a5-b9c4-916960d8cfb3",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/0ab7eb75-f3f3-4aea-8bf1-ae11dbfe1e32/resource/4d28fc98-c503-4065-987f-9fbc41947fc4/download/park_features.csv",
+        "id": "4d28fc98-c503-4065-987f-9fbc41947fc4",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/BaseServices/Park_Features/FeatureServer",
+        "id": "ab3163c2-f225-45d7-9d46-9da0b9c26842",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::park-features",
+        "id": "ef12dc98-d5c7-4173-bcf1-38c128d7d216",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/0ab7eb75-f3f3-4aea-8bf1-ae11dbfe1e32/resource/3bf46f6d-d01e-48e8-b022-e2eaed09af02/download/park_features.kmz",
+        "id": "3bf46f6d-d01e-48e8-b022-e2eaed09af02",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "",
+        "url": "https://docs.google.com/document/d/1WwXAjUTMby_g-FORy2Jkuxe4FA7abrdr6TkEIna2Mpo/edit?usp=sharing",
+        "id": "6a321bd8-8007-4109-a40e-201f5dedf8ea",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/0ab7eb75-f3f3-4aea-8bf1-ae11dbfe1e32/resource/5f130274-b67e-44e6-9c72-4175a2dca339/download/park_features.zip",
+        "id": "5f130274-b67e-44e6-9c72-4175a2dca339",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "bprd-accessible-park-details-augmented",
+    "title": "BPRD Accessible Park Details Augmented",
+    "resources": [
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/aa3702c3-2d0d-433c-9450-1f40ba726448/download/datadictionaryforbprdaccessibleparkfeatures.xlsx",
+        "id": "aa3702c3-2d0d-433c-9450-1f40ba726448",
+        "datastore_active": true
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/5dbfc0b1-c72c-4bc2-8ea8-4688e252a638/download/bprd_accessible_park_details_augmented.csv",
+        "id": "5dbfc0b1-c72c-4bc2-8ea8-4688e252a638",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/7b1cfe67-68be-40a3-96a6-cf9d86fbc866/download/bprd_accessible_park_details_augmented.geojson",
+        "id": "7b1cfe67-68be-40a3-96a6-cf9d86fbc866",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/eb0b3be4-3470-42c2-afa3-ae5025a7a3fb/download/bprd_accessible_park_details_augmented.zip",
+        "id": "eb0b3be4-3470-42c2-afa3-ae5025a7a3fb",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/50fe6562-dd63-40c3-a0a1-6aa313be8c6c/download/bprd_accessible_park_details_augmented.kmz",
+        "id": "50fe6562-dd63-40c3-a0a1-6aa313be8c6c",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BPRD_Accessible_Park_Details_Augmented/FeatureServer",
+        "id": "232e6a2a-f9de-4167-add4-6a58b24d4a74",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "existing-bike-network-2024",
+    "title": "Existing Bike Network (2024)",
+    "resources": [
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/55e84e3d-c795-42bb-94dd-28222ad04543/resource/e34b295e-1451-4e79-9e86-d9be609ffb34/download/existing_bike_network_2024.csv",
+        "id": "e34b295e-1451-4e79-9e86-d9be609ffb34",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/55e84e3d-c795-42bb-94dd-28222ad04543/resource/687847db-3296-41a7-aada-0419416ea59b/download/existing_bike_network_2024.geojson",
+        "id": "687847db-3296-41a7-aada-0419416ea59b",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/55e84e3d-c795-42bb-94dd-28222ad04543/resource/f7985400-6d6a-4d78-8ed1-b915e9ef4972/download/existing_bike_network_2024.zip",
+        "id": "f7985400-6d6a-4d78-8ed1-b915e9ef4972",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/55e84e3d-c795-42bb-94dd-28222ad04543/resource/02526cc5-7924-473a-8442-4639aa646fe1/download/existing_bike_network_2024.kmz",
+        "id": "02526cc5-7924-473a-8442-4639aa646fe1",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Boston_Bicycle_Network_2024/FeatureServer",
+        "id": "27d145dd-6550-4002-b6d7-a1d6c40fc8fa",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/55e84e3d-c795-42bb-94dd-28222ad04543/resource/1ec1aaa4-60ab-4b12-ae02-672a79e00886/download/2023-01-existing-bike-network-data-dictionary.pdf",
+        "id": "1ec1aaa4-60ab-4b12-ae02-672a79e00886",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "bprd-accessible-park-entrances",
+    "title": "BPRD Stair Free Park Entrances",
+    "resources": [
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/f1f987bc-5df6-4a86-adfc-1f84e56da13c/resource/4a30f226-7459-4e50-b6d7-051e24f751d4/download/data-dictionary-bprd-accessible-park-entrances-.pdf",
+        "id": "4a30f226-7459-4e50-b6d7-051e24f751d4",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/f1f987bc-5df6-4a86-adfc-1f84e56da13c/resource/2705f51f-a8ab-494f-a9a8-ce00d112f29b/download/bprd_stair_free_park_entrances.csv",
+        "id": "2705f51f-a8ab-494f-a9a8-ce00d112f29b",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/f1f987bc-5df6-4a86-adfc-1f84e56da13c/resource/52d328a1-fd4f-463f-b02a-6069eb2d9a8a/download/bprd_stair_free_park_entrances.geojson",
+        "id": "52d328a1-fd4f-463f-b02a-6069eb2d9a8a",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/f1f987bc-5df6-4a86-adfc-1f84e56da13c/resource/a6bb74cf-6c1a-4ffd-a502-f6cee9c86920/download/bprd_accessible_park_entrances.zip",
+        "id": "a6bb74cf-6c1a-4ffd-a502-f6cee9c86920",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/f1f987bc-5df6-4a86-adfc-1f84e56da13c/resource/7707bf91-6302-414d-afde-5f5db38f9f6b/download/bprd_accessible_park_entrances.kmz",
+        "id": "7707bf91-6302-414d-afde-5f5db38f9f6b",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BPRD_Stair_Free_Park_Entrances/FeatureServer",
+        "id": "ed8c02b9-4b7f-4112-8e58-95fe20f55de7",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "fy23-budget-survey-data",
+    "title": "FY23 Budget Survey Data",
+    "resources": [
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/03a7ce41-aeaa-4827-ba94-368012b8d104/resource/53e1df7f-9a79-4b21-93b0-f837c3ffc74c/download/budget-survey-data-for-opendata-recom.csv",
+        "id": "53e1df7f-9a79-4b21-93b0-f837c3ffc74c",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/03a7ce41-aeaa-4827-ba94-368012b8d104/resource/0447ca65-a039-4a41-b812-60b58b7030cb/download/open-data-survey-data-dictionary.csv",
+        "id": "0447ca65-a039-4a41-b812-60b58b7030cb",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "bprd-trees",
+    "title": "BPRD Trees",
+    "resources": [
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/995cd80f-2489-41bf-b16b-113dba4f2797/download/bprd_trees.csv",
+        "id": "995cd80f-2489-41bf-b16b-113dba4f2797",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/2f575489-e721-45ec-865a-e98f10d2ee85/download/bprd_trees.geojson",
+        "id": "2f575489-e721-45ec-865a-e98f10d2ee85",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/29856b83-7747-41bb-97fb-eaeb30e12165/download/bprd_trees.zip",
+        "id": "29856b83-7747-41bb-97fb-eaeb30e12165",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/16a3ce7b-a4e6-45de-a442-995857aa3852/download/bprd_trees.kmz",
+        "id": "16a3ce7b-a4e6-45de-a442-995857aa3852",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BPRD_Trees/FeatureServer",
+        "id": "cd7f0521-ab87-4cdc-a247-b27b31de1231",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/562516f7-8ff2-43a6-bd02-e49f0295c927/download/bprd-trees-metadata.pdf",
+        "id": "562516f7-8ff2-43a6-bd02-e49f0295c927",
+        "datastore_active": false
+      }
+    ]
+  }
+]

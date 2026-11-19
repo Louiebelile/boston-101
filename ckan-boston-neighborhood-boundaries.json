@@ -1,0 +1,351 @@
+[
+  {
+    "name": "bpda-neighborhood-boundaries",
+    "title": "Boston Neighborhood Boundaries",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/bf1a7b50-4c72-4637-b0fa-11d632e3aff1/resource/e5849875-a6f6-4c9c-9d8a-5048b0fbd03e/download/boston_neighborhood_boundaries.geojson",
+        "id": "e5849875-a6f6-4c9c-9d8a-5048b0fbd03e",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/bf1a7b50-4c72-4637-b0fa-11d632e3aff1/resource/d45a6d03-2616-4449-9687-0c864ec9f9e4/download/boston_neighborhood_boundaries.csv",
+        "id": "d45a6d03-2616-4449-9687-0c864ec9f9e4",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Boston_Neighborhood_Boundaries/FeatureServer",
+        "id": "8cd87c4d-aee6-4c81-b500-21e7dd64afe6",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::bpda-neighborhood-boundaries-1",
+        "id": "9bb93fc9-34b2-47bf-a659-196c5bf66a00",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/bf1a7b50-4c72-4637-b0fa-11d632e3aff1/resource/3b5c5369-9fb1-4f74-a440-4ad07e36dbcd/download/boston_neighborhood_boundaries.kmz",
+        "id": "3b5c5369-9fb1-4f74-a440-4ad07e36dbcd",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/bf1a7b50-4c72-4637-b0fa-11d632e3aff1/resource/f6be6d34-7813-4b55-955d-4b2c236243d6/download/boston_neighborhood_boundaries.zip",
+        "id": "f6be6d34-7813-4b55-955d-4b2c236243d6",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "boston-neighborhood-boundaries-approximated-by-2020-census-tracts",
+    "title": "Boston Neighborhood Boundaries Approximated by 2020 Census Tracts",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/5997399b-c665-4600-848f-a2a32834f009/resource/42a271c9-486d-4f9e-adc2-63e4bf47fe3e/download/boston_neighborhood_boundaries_approximated_by_2020_census_tracts.geojson",
+        "id": "42a271c9-486d-4f9e-adc2-63e4bf47fe3e",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/5997399b-c665-4600-848f-a2a32834f009/resource/b924834b-9c43-4932-949d-f1a314a5b16f/download/boston_neighborhood_boundaries_approximated_by_2020_census_tracts.csv",
+        "id": "b924834b-9c43-4932-949d-f1a314a5b16f",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Neighborhoods_CT20/FeatureServer",
+        "id": "0629176a-1a58-4dd3-b605-c63c959c5ed9",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-neighborhood-boundaries-approximated-by-2020-census-tracts",
+        "id": "c5b3e8ca-23ce-4f1c-ae78-4acaf1a92249",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/5997399b-c665-4600-848f-a2a32834f009/resource/24b47224-0102-4af2-8196-5ceb2cc086bc/download/boston_neighborhood_boundaries_approximated_by_2020_census_tracts.kmz",
+        "id": "24b47224-0102-4af2-8196-5ceb2cc086bc",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/5997399b-c665-4600-848f-a2a32834f009/resource/5b637721-677b-4852-919b-eae824850dc9/download/boston_neighborhood_boundaries_approximated_by_2020_census_tracts.zip",
+        "id": "5b637721-677b-4852-919b-eae824850dc9",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "boston-neighborhood-boundaries-approximated-by-2020-census-block-groups1",
+    "title": "Boston Neighborhood Boundaries Approximated by 2020 Census Block Groups",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/e11a621a-6561-4da6-a715-6edd2fa217a4/resource/c9663e7a-84c2-435c-91c0-91cdce1ee5ac/download/boston_neighborhood_boundaries_approximated_by_2020_census_block_groups.geojson",
+        "id": "c9663e7a-84c2-435c-91c0-91cdce1ee5ac",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e11a621a-6561-4da6-a715-6edd2fa217a4/resource/73509524-e7d4-430a-bb3b-0a8c389b187c/download/boston_neighborhood_boundaries_approximated_by_2020_census_block_groups.csv",
+        "id": "73509524-e7d4-430a-bb3b-0a8c389b187c",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Neighborhoods_BG20/FeatureServer",
+        "id": "7d9ac771-76d2-4150-980a-83b6ad90baca",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-neighborhood-boundaries-approximated-by-2020-census-block-groups",
+        "id": "3f92f070-b851-438a-8d22-f1e633ccfc5f",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/e11a621a-6561-4da6-a715-6edd2fa217a4/resource/62ecfccf-906b-4ad0-b791-2d6ad04fe5b8/download/boston_neighborhood_boundaries_approximated_by_2020_census_block_groups.kmz",
+        "id": "62ecfccf-906b-4ad0-b791-2d6ad04fe5b8",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/e11a621a-6561-4da6-a715-6edd2fa217a4/resource/bd667863-1e92-4544-9c51-982620d19cd8/download/boston_neighborhood_boundaries_approximated_by_2020_census_block_groups.zip",
+        "id": "bd667863-1e92-4544-9c51-982620d19cd8",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "census-tracts-boston-2020",
+    "title": "Census Tracts Boston (2020)",
+    "resources": [
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Census_2020_Tracts/FeatureServer",
+        "id": "155e6f59-5a36-4d02-81c3-98dfccd6e932",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e0d61bbd-6b9d-4d93-af80-c1bbf2e2a30a/resource/1ff3653e-57da-41e2-83a9-db045e87326c/download/census_tracts_boston_2020.csv",
+        "id": "1ff3653e-57da-41e2-83a9-db045e87326c",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/e0d61bbd-6b9d-4d93-af80-c1bbf2e2a30a/resource/a6f8f90e-5a8e-433e-820f-4cddfeb7ade8/download/census_tracts_boston_2020.geojson",
+        "id": "a6f8f90e-5a8e-433e-820f-4cddfeb7ade8",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "boston-ward-boundaries",
+    "title": "Boston Ward Boundaries",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/86e050bf-ca6a-45ff-aca1-c68aa611f7d6/download/boston_ward_boundaries.geojson",
+        "id": "86e050bf-ca6a-45ff-aca1-c68aa611f7d6",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/a2245f53-219b-4057-a3d3-076e82b89357/download/boston_ward_boundaries.csv",
+        "id": "a2245f53-219b-4057-a3d3-076e82b89357",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Boston_Wards_Boundaries/FeatureServer",
+        "id": "43affbb1-5414-46a2-9a38-1b554bd7ada6",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-ward-boundaries",
+        "id": "51a8e1b7-e9fb-4bfe-825c-93fcd9e726d5",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/ad8a064a-3b90-4b86-b68b-24a1c112cd21/download/boston_ward_boundaries.kmz",
+        "id": "ad8a064a-3b90-4b86-b68b-24a1c112cd21",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/8d0e71b4-7739-47ac-950d-8d694338c32d/download/boston_ward_boundaries.zip",
+        "id": "8d0e71b4-7739-47ac-950d-8d694338c32d",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "boston-precinct-boundaries",
+    "title": "Boston Precinct Boundaries",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/c37ac1db-da06-4347-a130-96134be12fe6/resource/59ad0d8e-bafc-4206-9556-291a83dd137d/download/boston_precinct_boundaries.geojson",
+        "id": "59ad0d8e-bafc-4206-9556-291a83dd137d",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/c37ac1db-da06-4347-a130-96134be12fe6/resource/71096151-4bed-4347-a3b0-25ebbdad4c71/download/boston_precinct_boundaries.csv",
+        "id": "71096151-4bed-4347-a3b0-25ebbdad4c71",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Boston_Precinct_Boundaries/FeatureServer",
+        "id": "abfa69e5-ea63-4342-a68a-1ba983b20dc8",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-precinct-boundaries",
+        "id": "d364799e-66dc-474e-9175-082a65387339",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/c37ac1db-da06-4347-a130-96134be12fe6/resource/e94de5af-148d-4470-ada4-fb20bea6f620/download/boston_precinct_boundaries.kmz",
+        "id": "e94de5af-148d-4470-ada4-fb20bea6f620",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/c37ac1db-da06-4347-a130-96134be12fe6/resource/22d7da59-35ec-43dc-8746-4cb243c592e5/download/boston_precinct_boundaries.zip",
+        "id": "22d7da59-35ec-43dc-8746-4cb243c592e5",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "2025-boston-population-estimates-neighborhood-level",
+    "title": "Boston Population Estimates 2025 Neighborhood Level",
+    "resources": [
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/d2ece0af-e0ad-42e4-b280-bd0aa1561ed0/resource/b0543358-d03f-4682-bf0c-658ea4573d6f/download/boston_population_estimates_2025_neighborhood_level.csv",
+        "id": "b0543358-d03f-4682-bf0c-658ea4573d6f",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/d2ece0af-e0ad-42e4-b280-bd0aa1561ed0/resource/faf18a44-8ba1-4d2b-b5c1-2ec1ebe0142d/download/boston_population_estimates_2025_neighborhood_level.geojson",
+        "id": "faf18a44-8ba1-4d2b-b5c1-2ec1ebe0142d",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Hosted/Data_2025_Neighborhood_AnalyzeB/FeatureServer",
+        "id": "876f3153-44a9-409d-8fee-85f84445eab0",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/d2ece0af-e0ad-42e4-b280-bd0aa1561ed0/resource/0c0ff51a-e4a2-4d5d-b165-03f3f5c88d32/download/city-of-boston-demographic-data-dictionary.xlsx",
+        "id": "0c0ff51a-e4a2-4d5d-b165-03f3f5c88d32",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "city-of-boston-outline-boundary-water-excluded",
+    "title": "City of Boston Outline Boundary (Water Excluded)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/a70595d2-fd38-4bcb-8a81-6f7807621d38/resource/dade0744-a486-44c7-be7d-07240a89dca4/download/city_of_boston_outline_boundary_water_excluded.geojson",
+        "id": "dade0744-a486-44c7-be7d-07240a89dca4",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/a70595d2-fd38-4bcb-8a81-6f7807621d38/resource/9c4aaddd-d0a8-4618-9397-5fdf380fb010/download/city_of_boston_outline_boundary_water_excluded.csv",
+        "id": "9c4aaddd-d0a8-4618-9397-5fdf380fb010",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Planning/OpenData/MapServer/9",
+        "id": "53549f7c-0167-4569-bac6-5b6166ac5715",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::city-of-boston-boundary-water-excluded",
+        "id": "fe9e066e-12e1-40d0-b945-a9f81d41429f",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/a70595d2-fd38-4bcb-8a81-6f7807621d38/resource/deea413e-f5c3-476a-9bda-e6a8f7ef3f16/download/city_of_boston_outline_boundary_water_excluded.kmz",
+        "id": "deea413e-f5c3-476a-9bda-e6a8f7ef3f16",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/a70595d2-fd38-4bcb-8a81-6f7807621d38/resource/5a324005-e186-4436-ab11-d423ea1a132b/download/city_of_boston_outline_boundary_water_excluded.zip",
+        "id": "5a324005-e186-4436-ab11-d423ea1a132b",
+        "datastore_active": false
+      }
+    ]
+  }
+]

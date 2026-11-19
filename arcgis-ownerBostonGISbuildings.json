@@ -1,0 +1,202 @@
+[
+  {
+    "id": "9ab88b0994a847428266a375dfcc0e93",
+    "title": "BERDO Reporting 2019",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BERDO_Reporting_2019/FeatureServer",
+    "numViews": 9035
+  },
+  {
+    "id": "a60b242b83a04e0ebc0b6df2b0424414",
+    "title": "BERDO Reporting 2018",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BERDO_BLDG_2018/FeatureServer",
+    "numViews": 10320
+  },
+  {
+    "id": "492746f09dde475285b01ae7fc95950e",
+    "title": "Buildings",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://gisportal.boston.gov/ArcGIS/rest/services/CityServices/OPEN_DATA/MapServer/1",
+    "numViews": 3052
+  },
+  {
+    "id": "15b6190d35ec454da0ab27dbd72e6e76",
+    "title": "BERDO Reporting (2021)",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BERDO_Reporting_2021/FeatureServer",
+    "numViews": 8286
+  },
+  {
+    "id": "3c412faf959941b9b3aea3ad769549e2",
+    "title": "BERDO Reporting (2019)",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Municipal_Building_Energy_Reporting___BERDO/FeatureServer",
+    "numViews": 3079
+  },
+  {
+    "id": "c703ea791acb4bd7863806bf9e2f4300",
+    "title": "BERDO Buildings 2022 Reporting",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BERDO_Buildings_2022_Reporting/FeatureServer",
+    "numViews": 1242
+  },
+  {
+    "id": "6e644e92d8e34de882426f4db245f7bb",
+    "title": "City Owned Buildings and Land",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 1137
+  },
+  {
+    "id": "4cd342c1027d4d9aa5d1c99f47836f15",
+    "title": "City of Boston Department Locations",
+    "type": "Web Mapping Application",
+    "owner": "BostonGIS",
+    "url": "https://boston.maps.arcgis.com/apps/MapTour/index.html?appid=4cd342c1027d4d9aa5d1c99f47836f15&webmap=4f2af591817a47f88731bc21d32f447c",
+    "numViews": 4822
+  },
+  {
+    "id": "e503dc0ee8944607a7804d77dc823086",
+    "title": "Building Energy Reporting 2020",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 2134
+  },
+  {
+    "id": "d8553a14908e43f6b499c98ddf0d8574",
+    "title": "SAM Addresses for BERDO 2020 Buildings",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/SAM_Addresses_for_BERDO_2020_Buildings/FeatureServer",
+    "numViews": 139
+  },
+  {
+    "id": "34018c1d2a254f18a7c075bc15a0dcdd",
+    "title": "BERDO Reporting (2020)",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BERDO2020_dissolve_final2/FeatureServer",
+    "numViews": 5653
+  },
+  {
+    "id": "3c77136ac2204662b9287050fefc67de",
+    "title": "Basemap",
+    "type": "Map Service",
+    "owner": "BostonGIS",
+    "url": "https://gisportal.boston.gov/ArcGIS/rest/services/Basemaps/basemap_SPF/MapServer",
+    "numViews": 5560
+  },
+  {
+    "id": "4c8fc3899a6748ceaa65c3d2eaa59549",
+    "title": "PROPERTY_ASSESSMENT_PARCEL_JOIN_FY26",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://gisportal.boston.gov/arcgis/rest/services/Assessing/PROPERTY_ASSESSMENT_PARCEL_JOIN_FY26/FeatureServer",
+    "numViews": 94264
+  },
+  {
+    "id": "82595a1b793a49c2bce7d61b751bdca5",
+    "title": "Municipal Building Energy Reporting (BERDO 2017)",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://gisportal.boston.gov/arcgis/rest/services/EnvironmentEnergy/OpenData/MapServer/2",
+    "numViews": 1177
+  },
+  {
+    "id": "af29b5aad0c3436a91c80f15593886db",
+    "title": "Permits",
+    "type": "Map Service",
+    "owner": "BostonGIS",
+    "url": "https://gisportal.boston.gov/ArcGIS/rest/services/Permitting/Permits/MapServer",
+    "numViews": 409
+  },
+  {
+    "id": "e2e7bad9909f4766940c84bf478c0ca7",
+    "title": "BERDO Reporting for 2022",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BERDO_Reporting_2021_with_BERDO_IDs/FeatureServer",
+    "numViews": 2406
+  },
+  {
+    "id": "ff459adaa5d444c79e95dfa3305de218",
+    "title": "CityOwnedBuildingsParcel17",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/CityOwnedBuildingsParcel17/FeatureServer",
+    "numViews": 1048
+  },
+  {
+    "id": "4f6ca209be284ca1b5e3a28ff8c4b564",
+    "title": "Building Energy Reporting",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 1136
+  },
+  {
+    "id": "6470bacc91eb4d0c930ae94b92315720",
+    "title": "Municipal Buildings",
+    "type": "Feature Collection",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 3365
+  },
+  {
+    "id": "432eb73979404af3ac2bf5fe2eed42c1",
+    "title": "bldgs_parcels",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/bldgs_parcels/FeatureServer",
+    "numViews": 1024
+  },
+  {
+    "id": "4f2af591817a47f88731bc21d32f447c",
+    "title": "COB Departments Story Map",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 6425
+  },
+  {
+    "id": "c690eb9bdcee4f01b9a4a733f5a79fce",
+    "title": "EGIS DOIT BUILDINGS",
+    "type": "Microsoft Excel",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 192
+  },
+  {
+    "id": "e50cc8ddf4e343629995d3c10b4fb44e",
+    "title": "BERDO Reporting 2021",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 5273
+  },
+  {
+    "id": "810cd720b9f5445387597886b83ec684",
+    "title": "Municipal Buildings",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Municipal_Buildings/FeatureServer",
+    "numViews": 57
+  },
+  {
+    "id": "23a221babaad4d8f9ba69dbb901aa448",
+    "title": "Building Energy Reporting 2019",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 9662
+  }
+]

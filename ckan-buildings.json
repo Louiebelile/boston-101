@@ -1,0 +1,428 @@
+[
+  {
+    "name": "building-and-property-violations1",
+    "title": "Building and Property Violations",
+    "resources": [
+      {
+        "name": "Building and Property Violations",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/705244a6-70a6-4ff8-ab8e-56441aff18e7/resource/800a2663-1d6a-46e7-9356-bedb70f5332c/download/tmpnritcowz.csv",
+        "id": "800a2663-1d6a-46e7-9356-bedb70f5332c",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/705244a6-70a6-4ff8-ab8e-56441aff18e7/resource/93042b58-2de4-4ba0-804c-1df7efe5a7ad/download/analyze-boston-data-dictionary_building-and-property-violations.xlsx",
+        "id": "93042b58-2de4-4ba0-804c-1df7efe5a7ad",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "boston-buildings-inventory",
+    "title": "Boston Buildings Inventory",
+    "resources": [
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/f2a82340-1f9c-49fb-a60b-b5655c9a7931/resource/391a32e6-d4bb-48d3-a990-cb35a5768a40/download/building_inventory_021020.csv",
+        "id": "391a32e6-d4bb-48d3-a990-cb35a5768a40",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/f2a82340-1f9c-49fb-a60b-b5655c9a7931/resource/a57ac742-1175-40f7-9789-a9e68aad7de3/download/fields-definitions.csv",
+        "id": "a57ac742-1175-40f7-9789-a9e68aad7de3",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/f2a82340-1f9c-49fb-a60b-b5655c9a7931/resource/abaceacf-90b1-422b-ab7b-5ba66306d071/download/codes-and-classes-definitions.csv",
+        "id": "abaceacf-90b1-422b-ab7b-5ba66306d071",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/f2a82340-1f9c-49fb-a60b-b5655c9a7931/resource/7d525c97-8e06-46de-9b21-70525a3f60ee/download/component-dataset-information.csv",
+        "id": "7d525c97-8e06-46de-9b21-70525a3f60ee",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/f2a82340-1f9c-49fb-a60b-b5655c9a7931/resource/13dce84c-3d0d-4676-91c5-bc2edc6e8ecd/download/boston-bei_marketsegmentation_021020.pdf",
+        "id": "13dce84c-3d0d-4676-91c5-bc2edc6e8ecd",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/f2a82340-1f9c-49fb-a60b-b5655c9a7931/resource/f8b5e75e-d9d1-49a3-b38f-90125bde8996/download/retrofitstrategies_021020.xlsx",
+        "id": "f8b5e75e-d9d1-49a3-b38f-90125bde8996",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "approved-building-permits",
+    "title": "Approved Building Permits",
+    "resources": [
+      {
+        "name": "Approved Building Permits",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/cd1ec3ff-6ebf-4a65-af68-8329eceab740/resource/6ddcd912-32a0-43df-9908-63574f8c7e77/download/tmp_x2q5txu.csv",
+        "id": "6ddcd912-32a0-43df-9908-63574f8c7e77",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/cd1ec3ff-6ebf-4a65-af68-8329eceab740/resource/65032067-580e-4167-9a5c-94fa8ac2d9a7/download/isd_approved_building_permits_data_dictionary.pdf",
+        "id": "65032067-580e-4167-9a5c-94fa8ac2d9a7",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "boston-buildings-with-roof-breaks",
+    "title": "Boston Buildings with Roof Breaks",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/08fd5249-2d75-42ef-ac23-951f3e0ec259/resource/57026638-b4e8-4dfa-8644-0e2cfe925a46/download/boston_buildings_with_roof_breaks_geojson.zip",
+        "id": "57026638-b4e8-4dfa-8644-0e2cfe925a46",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/08fd5249-2d75-42ef-ac23-951f3e0ec259/resource/2c683b81-7b88-4add-80ad-765e177092bf/download/boston_buildings_with_roof_breaks.csv",
+        "id": "2c683b81-7b88-4add-80ad-765e177092bf",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gis.bostonplans.org/hosting/rest/services/Boston_Buildings/FeatureServer",
+        "id": "3d987388-5959-433c-b0f7-9099788e7f53",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-buildings-with-roof-breaks",
+        "id": "32d6f7be-7ca9-4a68-a522-769404514946",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/08fd5249-2d75-42ef-ac23-951f3e0ec259/resource/4581d616-4290-4ac2-9612-ca2a5e347a7c/download/boston_buildings_with_roof_breaks.kmz",
+        "id": "4581d616-4290-4ac2-9612-ca2a5e347a7c",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/08fd5249-2d75-42ef-ac23-951f3e0ec259/resource/f3999b56-70c2-422e-888e-2f5f5a9d29c8/download/boston_buildings_with_roof_breaks.zip",
+        "id": "f3999b56-70c2-422e-888e-2f5f5a9d29c8",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "boston-3d-buildings-existing",
+    "title": "Boston 3D Buildings (Existing)",
+    "resources": [
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://tiles.arcgis.com/tiles/sFnw0xNflSi8J0uh/arcgis/rest/services/Bos3d_Existing_MP/SceneServer",
+        "id": "ee90e27a-973b-4b23-a797-9329e6bbc5c2",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Online Portal Item",
+        "format": "HTML",
+        "url": "https://boston.maps.arcgis.com/home/item.html?id=d01bebadca584c249960f1eb6080f88c",
+        "id": "5ccfe9f0-c618-4d34-903f-89a16f83340f",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "building-emissions-reduction-and-disclosure-ordinance",
+    "title": "Building Emissions Reduction and Disclosure Ordinance (BERDO)",
+    "resources": [
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/c6edf41e-eb53-45a4-9c52-837b865bf19f/download/2026-berdo-data-disclosure-9.30.26.xlsx",
+        "id": "c6edf41e-eb53-45a4-9c52-837b865bf19f",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/911db0b1-437f-43ba-86bb-860cc1cd9319/download/2025-reported-energy-and-water-metrics.xlsx",
+        "id": "911db0b1-437f-43ba-86bb-860cc1cd9319",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/87521565-7f15-4b8d-a225-ac4df9e3f309/download/2024-reported-energy-and-water-metrics-1.xlsx",
+        "id": "87521565-7f15-4b8d-a225-ac4df9e3f309",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/33c4897d-59e7-4c23-9f96-4d2fbe4e8b7c/download/2024-detailed-data-dictionary.xlsx",
+        "id": "33c4897d-59e7-4c23-9f96-4d2fbe4e8b7c",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/cb9ad2aa-eec6-4726-a308-945a215056d5/download/2023-reported-energy-and-water-metrics.xlsx",
+        "id": "cb9ad2aa-eec6-4726-a308-945a215056d5",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/8b0475c6-4b3e-4c77-99a7-f85492269aeb/download/2023-detailed-data-dictionary.xlsx",
+        "id": "8b0475c6-4b3e-4c77-99a7-f85492269aeb",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "HTML",
+        "url": "https://boston.maps.arcgis.com/apps/webappviewer/index.html?id=5b723500c49748dba58a8005d48e7b7d",
+        "id": "22098ddb-6558-463d-a9bb-baaf9fd2f22d",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/cd2c6809-ee14-4321-9d88-e9b45a840a02/download/2022-reported-energy-and-water-metrics_new.xlsx",
+        "id": "cd2c6809-ee14-4321-9d88-e9b45a840a02",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/f0ab2424-223f-47a1-8f52-4c2478b4cadd/download/2022-detailed-data-dictionary.xlsx",
+        "id": "f0ab2424-223f-47a1-8f52-4c2478b4cadd",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "HTML",
+        "url": "https://boston.maps.arcgis.com/apps/webappviewer/index.html?id=7a0ec645c90a41fc89e7796739cbfc4c",
+        "id": "afe1c124-f990-44ea-847a-bf81282e48fb",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/a7b155de-10ee-48fc-bd89-fc8e31134913/download/2021-reported-energy-and-water-metrics.xlsx",
+        "id": "a7b155de-10ee-48fc-bd89-fc8e31134913",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/d3580a75-18d9-4d77-bb66-9eb390f60ec6/download/2021-detailed-data-dictionary-.xlsx",
+        "id": "d3580a75-18d9-4d77-bb66-9eb390f60ec6",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "HTML",
+        "url": "https://boston.maps.arcgis.com/apps/webappviewer/index.html?id=cb95dd54bb8f47a38879d2a704491c0d",
+        "id": "204aa792-1a95-40ba-a719-6e8edcf382ee",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/033c30b4-8d28-40ad-9572-43d8455aaab6/download/berdo-disclosure-for-calendar-year-2019-final.xlsx",
+        "id": "033c30b4-8d28-40ad-9572-43d8455aaab6",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/5312022d-c521-47a5-bb3b-7b5525e114ec/download/berdo-data-definitions-2020.xlsx",
+        "id": "5312022d-c521-47a5-bb3b-7b5525e114ec",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "HTML",
+        "url": "http://boston.maps.arcgis.com/apps/webappviewer/index.html?id=b3ea9b33314541c6a2663732698fd92a",
+        "id": "2db897f5-3e85-45b1-8090-2d54328cd084",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/6a5bb842-0656-49c2-8f80-1e3fbcf5c913/download/berdo-data-for-disclosure-calendar-year-2018.xlsx",
+        "id": "6a5bb842-0656-49c2-8f80-1e3fbcf5c913",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/8a54c54b-74bb-45b5-8349-4b2a5f341054/download/berdodefinitions2019.xlsx",
+        "id": "8a54c54b-74bb-45b5-8349-4b2a5f341054",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "HTML",
+        "url": "http://boston.maps.arcgis.com/apps/webappviewer/index.html?id=b3ea9b33314541c6a2663732698fd92a",
+        "id": "1bf1b438-75d1-4028-ad71-4f67cdfeec74",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/da68dc1a-46ad-4fd9-8627-8ca7e5fd39dd/download/berdo-data-for-disclosure-calendar-year-2017.csv",
+        "id": "da68dc1a-46ad-4fd9-8627-8ca7e5fd39dd",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/cd9b3927-edb9-4151-93bb-c54575781342/download/berdodefinitions2017.csv",
+        "id": "cd9b3927-edb9-4151-93bb-c54575781342",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "HTML",
+        "url": "http://boston.maps.arcgis.com/apps/webappviewer/index.html?id=049576c7287f4ee09bcb0a062e43b55c",
+        "id": "b460491b-bf0c-413c-afd1-fadf85dbf449",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/5b027436-5213-4be6-ab5f-485a03f74500/download/berdo2017.csv",
+        "id": "5b027436-5213-4be6-ab5f-485a03f74500",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/7e434fc8-2377-4ec0-a123-809fe47bea8a/download/2016-reported-energy-and-water-metrics.xlsx",
+        "id": "7e434fc8-2377-4ec0-a123-809fe47bea8a",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b09a8b71-274b-4365-9ce6-49b8b44602ef/resource/d6cc3fb8-d983-42be-845d-ba07ca0748a0/download/2015-reported-energy-and-water-metrics.xlsx",
+        "id": "d6cc3fb8-d983-42be-845d-ba07ca0748a0",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "buildbps-facilities-and-educational-data-for-boston-public-schools",
+    "title": "BuildBPS: Facilities and Educational Data for Boston Public Schools",
+    "resources": [
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/b2c5a9d3-609d-49ec-906c-b0e850a8d62a/resource/33c5f44a-3c67-4390-a1d5-1bf018e4728c/download/buildbps.csv",
+        "id": "33c5f44a-3c67-4390-a1d5-1bf018e4728c",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/b2c5a9d3-609d-49ec-906c-b0e850a8d62a/resource/dd3e5406-0f4c-47ad-9c3d-da1213ccb868/download/buildbps.xlsx",
+        "id": "dd3e5406-0f4c-47ad-9c3d-da1213ccb868",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/b2c5a9d3-609d-49ec-906c-b0e850a8d62a/resource/515ec6c6-cfc4-485c-95a7-ffb522a3c079/download/buildbpsdatakeycurrent.pdf",
+        "id": "515ec6c6-cfc4-485c-95a7-ffb522a3c079",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "berdo-reporting-20201",
+    "title": "BERDO Reporting (2020)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/d94e942a-42c9-4db6-a73d-6709c259b7f9/resource/2f31fb87-6d7e-436e-98cb-4a7c16f333e0/download/berdo_reporting_2020.geojson",
+        "id": "2f31fb87-6d7e-436e-98cb-4a7c16f333e0",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/d94e942a-42c9-4db6-a73d-6709c259b7f9/resource/930b0a52-9ddb-4ccb-9987-8f48c468e80b/download/berdo_reporting_2020.csv",
+        "id": "930b0a52-9ddb-4ccb-9987-8f48c468e80b",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/34018c1d2a254f18a7c075bc15a0dcdd/shapefile?layers=0",
+        "id": "e393998f-f56d-425e-a505-af112aa1b162",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BERDO2020_dissolve_final2/FeatureServer",
+        "id": "7c842d4d-4707-4b99-8e5b-8c2abf81d9ec",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::berdo-reporting-2020",
+        "id": "4840b134-f48d-4f77-90f9-59d71671bd22",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::berdo-reporting-2020",
+        "id": "245e6612-b3c7-4473-aecc-e434b2973f6c",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/d94e942a-42c9-4db6-a73d-6709c259b7f9/resource/ec3e1c63-9d94-41b3-bab2-3595748e4e72/download/berdo_reporting_2020.kmz",
+        "id": "ec3e1c63-9d94-41b3-bab2-3595748e4e72",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/d94e942a-42c9-4db6-a73d-6709c259b7f9/resource/b4ea9d90-e1a6-4fce-a047-f43b094aa636/download/berdo_reporting_2020.zip",
+        "id": "b4ea9d90-e1a6-4fce-a047-f43b094aa636",
+        "datastore_active": false
+      }
+    ]
+  }
+]

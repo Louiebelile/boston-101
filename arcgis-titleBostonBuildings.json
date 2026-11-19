@@ -1,0 +1,202 @@
+[
+  {
+    "id": "626e6790bba44f169694bca2de0fde5d",
+    "title": "Boston Buildings Public View",
+    "type": "Feature Service",
+    "owner": "pref.gis.support",
+    "url": "https://services5.arcgis.com/S8KZ4xiwVgqpYP63/arcgis/rest/services/Boston_Buildings_(Internal)_view/FeatureServer",
+    "numViews": 116121
+  },
+  {
+    "id": "08e73b746cac46efbf12a3ea37ad49cd",
+    "title": "Boston Buildings with Roof Breaks",
+    "type": "Feature Service",
+    "owner": "PlanningGISlab",
+    "url": "https://gis.bostonplans.org/hosting/rest/services/Boston_Building_Roofprints/FeatureServer",
+    "numViews": 907
+  },
+  {
+    "id": "3a624e24ba834053803a2d9ac47ef8a4",
+    "title": "Boston buildings and trees",
+    "type": "Web Scene",
+    "owner": "scene_viewer",
+    "url": null,
+    "numViews": 1255
+  },
+  {
+    "id": "9ebc017307af486bae480c47b4b9d515",
+    "title": "Boston_Buildings_Flood_Risk_2050",
+    "type": "Feature Service",
+    "owner": "urban_sandbox_prod",
+    "url": "https://services5.arcgis.com/04gBMzU1FtxfoDdi/arcgis/rest/services/Boston_Buildings_Flood_Risk_2050/FeatureServer",
+    "numViews": 22068
+  },
+  {
+    "id": "51d6e6957cb5494b87f76097b609081f",
+    "title": "Boston_Buildings_UNREV_BA_032019",
+    "type": "Scene Service",
+    "owner": "BRAmaps",
+    "url": "https://tiles.arcgis.com/tiles/sFnw0xNflSi8J0uh/arcgis/rest/services/Boston_Buildings_UNREV_BA_032019/SceneServer",
+    "numViews": 3388
+  },
+  {
+    "id": "8063bf8356594cc9a951f6fcd9d0f814",
+    "title": "Boston buildings 2017",
+    "type": "Map Package",
+    "owner": "boston_3dplanning",
+    "url": null,
+    "numViews": 21
+  },
+  {
+    "id": "dfd8df38d0df49a392d4ca69eadd735a",
+    "title": "Boston Buildings 10 ft Buffer",
+    "type": "Map Service",
+    "owner": "sfttbos",
+    "url": "https://tiles.arcgis.com/tiles/s1ixCFa0Wqrg0KxB/arcgis/rest/services/Boston_Buildings_10_ft_Buffer/MapServer",
+    "numViews": 455
+  },
+  {
+    "id": "abecfafadb9f4831b6ecccf64bf0f32f",
+    "title": "Boston Buildings v3",
+    "type": "Map Service",
+    "owner": "sfttbos",
+    "url": "https://tiles.arcgis.com/tiles/s1ixCFa0Wqrg0KxB/arcgis/rest/services/Boston_Buildings_v3/MapServer",
+    "numViews": 440
+  },
+  {
+    "id": "b88ac3a3cb524e9ebbfb2b83dcf00920",
+    "title": "Revolution-Era Boston Buildings",
+    "type": "StoryMap",
+    "owner": "jeffrey.goldberg@westpoint.edu_usma",
+    "url": "https://storymaps.arcgis.com/stories/b88ac3a3cb524e9ebbfb2b83dcf00920",
+    "numViews": 42
+  },
+  {
+    "id": "7e333c5e057642e4ab8fefbde490a6af",
+    "title": "Boston Building E",
+    "type": "Scene Service",
+    "owner": "and10799@esri.com_ArcAEC",
+    "url": "https://tiles.arcgis.com/tiles/tgUWep3BZhLoHKNh/arcgis/rest/services/Boston_Building_E/SceneServer",
+    "numViews": 182
+  },
+  {
+    "id": "68059df8229c4049a983c3ec86c1e58f",
+    "title": "Boston Building E Indoors view",
+    "type": "Feature Service",
+    "owner": "davi7517@esri.com_ArcAEC",
+    "url": "https://services.arcgis.com/tgUWep3BZhLoHKNh/arcgis/rest/services/Boston_Building_E_Indoors_view/FeatureServer",
+    "numViews": 391
+  },
+  {
+    "id": "3d1f562df0d243f7a805c68bdac02833",
+    "title": "boston_buildings",
+    "type": "Map Package",
+    "owner": "radhaku",
+    "url": null,
+    "numViews": 43
+  },
+  {
+    "id": "96186b2016e14a86b37c60fa6a47c84b",
+    "title": "Boston_Buildings",
+    "type": "Feature Service",
+    "owner": "Heather.MacLean001@umb.edu_UMB",
+    "url": "https://services1.arcgis.com/pQgwaiEQW04NbsJ0/arcgis/rest/services/Boston_Buildings/FeatureServer",
+    "numViews": 1290
+  },
+  {
+    "id": "bd1fc0183ed44645bc61c3c4fe465549",
+    "title": "Boston buildings",
+    "type": "Feature Service",
+    "owner": "Heather_JS9",
+    "url": "https://services.arcgis.com/V6ZHFr6zdgNZuVG0/arcgis/rest/services/Boston_buildings/FeatureServer",
+    "numViews": 1265
+  },
+  {
+    "id": "e858a17e346a40288fe4c0a413d4b290",
+    "title": "BOSTON_Buildings_3D_EsriDTM",
+    "type": "Scene Service",
+    "owner": "BPatrick_Geodesign",
+    "url": "https://tiles.arcgis.com/tiles/Imiq6naek6ZWdour/arcgis/rest/services/BOSTON_Buildings_3D_EsriDTM/SceneServer",
+    "numViews": 6440
+  },
+  {
+    "id": "a7cea8192ec64910a60b81838e07cf71",
+    "title": "Boston Building E for Demo",
+    "type": "Web Scene",
+    "owner": "sydney_UrbanWorkshop",
+    "url": null,
+    "numViews": 402
+  },
+  {
+    "id": "c6214bfe0d6a4d4996c4fb0f613be1bc",
+    "title": "Assignment 8_ Boston Buildings",
+    "type": "Web Scene",
+    "owner": "fishbeinln3",
+    "url": null,
+    "numViews": 62
+  },
+  {
+    "id": "759750e457da4850819352fed6cd6e5b",
+    "title": "Boston Building E - For Demo",
+    "type": "Web Scene",
+    "owner": "Urban_Sydney",
+    "url": null,
+    "numViews": 98
+  },
+  {
+    "id": "b2dca08ee7f44165a18bc0f036df0d8f",
+    "title": "Boston Buildings Flood Risk 2050",
+    "type": "Web Map",
+    "owner": "watson.jac_NU3",
+    "url": null,
+    "numViews": 88
+  },
+  {
+    "id": "c4593a5759af463c88622d9674cd904c",
+    "title": "Boston buildings view",
+    "type": "Feature Service",
+    "owner": "Heather_JS9",
+    "url": "https://services.arcgis.com/V6ZHFr6zdgNZuVG0/arcgis/rest/services/Boston_buildings_view/FeatureServer",
+    "numViews": 63
+  },
+  {
+    "id": "08ccbd57ce0449fa9ed5dcd62bf3382a",
+    "title": "SM__4326__US_Boston__Buildings",
+    "type": "Scene Service",
+    "owner": "zrhdata_publish",
+    "url": "https://tilesqa.arcgis.com/tiles/SdQnSRS214Ul5Jv5/arcgis/rest/services/SM__4326__US_Boston__Buildings/SceneServer",
+    "numViews": 61
+  },
+  {
+    "id": "3719cd7922fc490893e754e69e037cc5",
+    "title": "PBA Boston Buildings of Autumn!",
+    "type": "Web Map",
+    "owner": "brendan@encompasscre.com",
+    "url": null,
+    "numViews": 306
+  },
+  {
+    "id": "b04aa34f4a7642f8bdb43ec9aaa744a9",
+    "title": "Boston_Building_Footprints",
+    "type": "Feature Service",
+    "owner": "lhgarfinkel@wpi.edu_W_P_I",
+    "url": "https://services7.arcgis.com/EXxkqxLvye8SbupH/arcgis/rest/services/Boston_Building_Footprints/FeatureServer",
+    "numViews": 148
+  },
+  {
+    "id": "e5ce5743c1cd4d91b1f1b4915d16f501",
+    "title": "Boston Buildings Public View",
+    "type": "Feature Service",
+    "owner": "Urban_Dominik",
+    "url": "https://services9.arcgis.com/ZpmTCcECcEOnkrrK/arcgis/rest/services/0d00b67c79f64f949540856e87e4c9f3_public_view_1592895884701/FeatureServer",
+    "numViews": 4206
+  },
+  {
+    "id": "c150e0cbf1414286bd242cb759e9b967",
+    "title": "Boston_Building_E",
+    "type": "Scene Service",
+    "owner": "sydney_UrbanWorkshop",
+    "url": "https://tilesqa.arcgis.com/tiles/ks7U0TskTFC5hLxd/arcgis/rest/services/Boston_Building_E/SceneServer",
+    "numViews": 341
+  }
+]

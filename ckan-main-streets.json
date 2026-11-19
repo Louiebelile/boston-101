@@ -1,0 +1,50 @@
+[
+  {
+    "name": "main-street-districts",
+    "title": "Main Street Districts",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/a946d4ff-0ec9-4b2d-b18c-6e6944a92778/resource/315fa109-4a21-4999-a572-4cf793dbc29a/download/main_street_districts.geojson",
+        "id": "315fa109-4a21-4999-a572-4cf793dbc29a",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/a946d4ff-0ec9-4b2d-b18c-6e6944a92778/resource/6d6627c7-17df-424a-a9bd-b9f502f73254/download/main_street_districts.csv",
+        "id": "6d6627c7-17df-424a-a9bd-b9f502f73254",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Planning/OpenData/MapServer/0",
+        "id": "b5ff4ced-4780-48fe-8197-7bb77baacff4",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::main-street-districts",
+        "id": "ee72643c-27b4-4620-8cb0-ee8dd9d80f3b",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/a946d4ff-0ec9-4b2d-b18c-6e6944a92778/resource/5bdf47b2-d4ee-4a5e-9ea8-36ab089093d3/download/main_street_districts.kmz",
+        "id": "5bdf47b2-d4ee-4a5e-9ea8-36ab089093d3",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/a946d4ff-0ec9-4b2d-b18c-6e6944a92778/resource/82995b69-bf89-457e-a309-c705a021775d/download/main_street_districts.zip",
+        "id": "82995b69-bf89-457e-a309-c705a021775d",
+        "datastore_active": false
+      }
+    ]
+  }
+]

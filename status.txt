@@ -1,0 +1,26 @@
+ckan buildings | 200
+ckan food establishment | 200
+ckan public schools | 200
+ckan non public schools | 200
+ckan colleges universities | 200
+ckan city council districts | 200
+ckan boston neighborhood boundaries | 200
+ckan property assessment | 200
+ckan article80 | 200
+ckan wards precincts | 200
+ckan main streets | 200
+ckan open space | 200
+ckan street trees | 200
+ckan landmarks | 200
+arcgis owner:BostonGIS buildings | 200
+arcgis title:"Boston Buildings" | 200
+arcgis title:"Boston 3D Buildings" | 200
+arcgis owner:BostonGIS neighborhood | 200
+massgis-rapid | 200 111143 | https://s3.us-east-1.amazonaws.com/download.massgis.digital.mass.gov/shapefiles/state/mbta_rapid_transit.zip
+massgis-trains | 200 1519820 | https://s3.us-east-1.amazonaws.com/download.massgis.digital.mass.gov/shapefiles/state/trains.zip
+massgis-senate | 404  | https://s3.us-east-1.amazonaws.com/download.massgis.digital.mass.gov/shapefiles/state/senate2021.zip
+massgis-house | 404  | https://s3.us-east-1.amazonaws.com/download.massgis.digital.mass.gov/shapefiles/state/house2021.zip
+massgis-structures | 200 25252275 | https://s3.us-east-1.amazonaws.com/download.massgis.digital.mass.gov/shapefiles/structures/structures_poly_35.zip
+massgis-structures2 | 404  | https://s3.us-east-1.amazonaws.com/download.massgis.digital.mass.gov/shapefiles/state/structures_poly_35.zip
+mbta-gtfs | 200 22280410 | https://cdn.mbta.com/MBTA_GTFS.zip
+overpass | 200

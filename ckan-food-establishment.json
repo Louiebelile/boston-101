@@ -1,0 +1,62 @@
+[
+  {
+    "name": "food-establishment-inspections",
+    "title": "Food Establishment Inspections",
+    "resources": [
+      {
+        "name": "Food Establishment Inspections",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/03693648-2c62-4a2c-a4ec-48de2ee14e18/resource/4582bec6-2b4f-4f9e-bc55-cbaa73117f4c/download/tmpnol5shy0.csv",
+        "id": "4582bec6-2b4f-4f9e-bc55-cbaa73117f4c",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/03693648-2c62-4a2c-a4ec-48de2ee14e18/resource/a1d30fd7-6b66-485a-8c05-00318634c012/download/analyze-boston-data-dictionary_food-establishment-inspections.xlsx",
+        "id": "a1d30fd7-6b66-485a-8c05-00318634c012",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "active-food-establishment-licenses",
+    "title": "Active Food Establishment Licenses",
+    "resources": [
+      {
+        "name": "Active Food Establishment Licenses",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/5e4182e3-ba1e-4511-88f8-08a70383e1b6/resource/f1e13724-284d-478c-b8bc-ef042aa5b70b/download/tmpn1g98wic.csv",
+        "id": "f1e13724-284d-478c-b8bc-ef042aa5b70b",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/5e4182e3-ba1e-4511-88f8-08a70383e1b6/resource/6dd036ea-cc30-4c30-9a07-efb5fa425d6b/download/analyze-boston-data-dictionary_active-food-establishment-licenses.xlsx",
+        "id": "6dd036ea-cc30-4c30-9a07-efb5fa425d6b",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "licensing-board-licenses",
+    "title": "Licensing Board Licenses",
+    "resources": [
+      {
+        "name": "Licensing Board Licenses",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/1b020058-038a-43fd-888b-529e76dec04a/resource/04dc653b-1789-4374-9669-b07df7233344/download/tmpwavc6gq3.csv",
+        "id": "04dc653b-1789-4374-9669-b07df7233344",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/1b020058-038a-43fd-888b-529e76dec04a/resource/b2a84e92-2c5a-4f5f-b57d-f708491a8536/download/data-dictionary.xlsx",
+        "id": "b2a84e92-2c5a-4f5f-b57d-f708491a8536",
+        "datastore_active": true
+      }
+    ]
+  }
+]

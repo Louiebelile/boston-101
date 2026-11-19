@@ -1,0 +1,112 @@
+[
+  {
+    "name": "boston-ward-boundaries",
+    "title": "Boston Ward Boundaries",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/86e050bf-ca6a-45ff-aca1-c68aa611f7d6/download/boston_ward_boundaries.geojson",
+        "id": "86e050bf-ca6a-45ff-aca1-c68aa611f7d6",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/a2245f53-219b-4057-a3d3-076e82b89357/download/boston_ward_boundaries.csv",
+        "id": "a2245f53-219b-4057-a3d3-076e82b89357",
+        "datastore_active": true
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Boston_Wards_Boundaries/FeatureServer",
+        "id": "43affbb1-5414-46a2-9a38-1b554bd7ada6",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::boston-ward-boundaries",
+        "id": "51a8e1b7-e9fb-4bfe-825c-93fcd9e726d5",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/ad8a064a-3b90-4b86-b68b-24a1c112cd21/download/boston_ward_boundaries.kmz",
+        "id": "ad8a064a-3b90-4b86-b68b-24a1c112cd21",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/e491f77b-0094-40ea-ae20-f91cfa9f7ccc/resource/8d0e71b4-7739-47ac-950d-8d694338c32d/download/boston_ward_boundaries.zip",
+        "id": "8d0e71b4-7739-47ac-950d-8d694338c32d",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "city-council-districts-2013-2022",
+    "title": "City Council Districts - 2013-2022",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/2e9748e6-f616-4a9d-ba3e-ff9d7beca73f/download/city_council_districts___2013_2022.geojson",
+        "id": "2e9748e6-f616-4a9d-ba3e-ff9d7beca73f",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/5cc5f01a-ac01-4297-b1bc-5d4f98d84af1/download/city_council_districts___2013_2022.csv",
+        "id": "5cc5f01a-ac01-4297-b1bc-5d4f98d84af1",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/7dc47e49e35b41f3be9e2e0bdd4940f1/shapefile?layers=4",
+        "id": "75e9aa57-2e55-4438-bd81-4d7b5e4c1351",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Planning/OpenData/MapServer/4",
+        "id": "b9831a12-62a2-41d2-bd0b-256243ba3996",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::city-council-districts-2013-2022",
+        "id": "7378e289-7be6-41b0-a417-69d1d3e04d5b",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::city-council-districts-2013-2022",
+        "id": "4a2af770-85df-40f6-ba7c-d11ab3138b9f",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/dbf4b630-60af-4ce6-a154-8f0db049e3bc/download/city_council_districts___2013_2022.kmz",
+        "id": "dbf4b630-60af-4ce6-a154-8f0db049e3bc",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/9ca95621-a7e7-4f4f-a550-a6538fadd195/resource/746a8d07-59c5-4c2f-bf56-f3779b711cec/download/city_council_districts___2013_2022.zip",
+        "id": "746a8d07-59c5-4c2f-bf56-f3779b711cec",
+        "datastore_active": false
+      }
+    ]
+  }
+]

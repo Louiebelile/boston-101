@@ -1,0 +1,202 @@
+[
+  {
+    "id": "8259fb87b79f41d384dc8412c71a6d03",
+    "title": "Mayor's Office of Neighborhood Services",
+    "type": "Web Mapping Application",
+    "owner": "BostonGIS",
+    "url": "https://boston.maps.arcgis.com/apps/MapTour/index.html?appid=8259fb87b79f41d384dc8412c71a6d03&webmap=de24b8c5dab3423eb4702d76fe2348b1",
+    "numViews": 27985
+  },
+  {
+    "id": "fbd99773425244b3888aa7077e7c8cfd",
+    "title": "My Neighborhood Representation Viewer",
+    "type": "Web Mapping Application",
+    "owner": "BostonGIS",
+    "url": "https://boston.maps.arcgis.com/apps/instant/lookup/index.html?appid=fbd99773425244b3888aa7077e7c8cfd",
+    "numViews": 59569
+  },
+  {
+    "id": "93aac79866b940abb2161d67682804c0",
+    "title": "Open Space Planning Neighborhoods",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://gisportal.boston.gov/arcgis/rest/services/EnvironmentEnergy/OpenData/MapServer/8",
+    "numViews": 13096
+  },
+  {
+    "id": "6d730f9f5fe246588cfa64728bb0524b",
+    "title": "Sum Demographics and CPA Projects by neighborhood",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Sum_Demographics_and_CPA_Projects_by_neighborhood/FeatureServer",
+    "numViews": 10749
+  },
+  {
+    "id": "e5e37d36d8484cb2a8273205468d482e",
+    "title": "Boston Neighborhoods",
+    "type": "Web Mapping Application",
+    "owner": "BostonGIS",
+    "url": "https://boston.maps.arcgis.com/apps/MapTour/index.html?appid=e5e37d36d8484cb2a8273205468d482e",
+    "numViews": 5621
+  },
+  {
+    "id": "3aea56f78a8c46a5b98cd85e1c38d204",
+    "title": "Boston Green Links",
+    "type": "Web Mapping Application",
+    "owner": "BostonGIS",
+    "url": "http://app01.cityofboston.gov/GreenLinks/",
+    "numViews": 769
+  },
+  {
+    "id": "8e4f2c7ee57a465e85e6b5e3136ae186",
+    "title": "BRF Grantee Neighborhoods",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 1702
+  },
+  {
+    "id": "69f2ae9280b749bb8f373c63b41fa7cd",
+    "title": "Neighborhood Liaisons (October 2026, Public)",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/neighborhood_liason_districts_0524/FeatureServer",
+    "numViews": 16789
+  },
+  {
+    "id": "f80e62b792de4457989740ba281942ae",
+    "title": "Boston Neighborhoods",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services1.arcgis.com/KUeKSLlMUcWvuPRM/arcgis/rest/services/Boston_Neighborhoods/FeatureServer",
+    "numViews": 4411
+  },
+  {
+    "id": "451dbe7c7fb24068a7d7f60e2e1e0acd",
+    "title": "ONS Districts",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/ONS_Districts/FeatureServer",
+    "numViews": 2295
+  },
+  {
+    "id": "609d43c859de4936a751dea93ec5ab70",
+    "title": "Mayor Walsh's Neighborhood Coffee Hours",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 1071
+  },
+  {
+    "id": "03209a662f854040ac1b07edb34861fd",
+    "title": "SBW_callout",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/SBW_callout/FeatureServer",
+    "numViews": 6268
+  },
+  {
+    "id": "cbc8b35b501a478e9188a2aeed90c73d",
+    "title": "chinatown_callout2",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/chinatown_callout2/FeatureServer",
+    "numViews": 5392
+  },
+  {
+    "id": "5877619a187b4bdd8a9763fb6ad976cb",
+    "title": "brighton_callout",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/brighton_callout/FeatureServer",
+    "numViews": 5403
+  },
+  {
+    "id": "559392d58d95459b9dd6e99994db5e9d",
+    "title": "Dorchester_callout",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Dorchester_callout/FeatureServer",
+    "numViews": 5399
+  },
+  {
+    "id": "638aa0d47a8d4f60838bca3bd4201568",
+    "title": "fenway_callout2",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/fenway_callout2/FeatureServer",
+    "numViews": 5380
+  },
+  {
+    "id": "7a020cd08f104c9c862619927aea6ea0",
+    "title": "chinatown_callout",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/chinatown_callout/FeatureServer",
+    "numViews": 5363
+  },
+  {
+    "id": "db9f708866904cba88eff795d91c5496",
+    "title": "north_end_callout3",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/north_end_callout3/FeatureServer",
+    "numViews": 5384
+  },
+  {
+    "id": "49ff41b044304c55b2e80b13e01c18c7",
+    "title": "MailingNeighborhoods",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/MailingNeighborhoods/FeatureServer",
+    "numViews": 989
+  },
+  {
+    "id": "90743f03c65447a5b887048c40fba929",
+    "title": "Roxbury_callout",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/Roxbury_callout/FeatureServer",
+    "numViews": 4759
+  },
+  {
+    "id": "bcdf17345f96403990d42c4714f89e12",
+    "title": "At_Large_Councilors_(view)",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/At_Large_Councilors_(view)/FeatureServer",
+    "numViews": 193136
+  },
+  {
+    "id": "523b96b6ce7a4cf0b5fa441ab089703c",
+    "title": "2016_Nativity_BostonNeighborhoods",
+    "type": "Feature Service",
+    "owner": "BostonGIS",
+    "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/2016_Nativity_BostonNeighborhoods/FeatureServer",
+    "numViews": 3411
+  },
+  {
+    "id": "0e10d28391964b3fabf3c10297a91b43",
+    "title": "Neighborhoods",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": null,
+    "numViews": 1063
+  },
+  {
+    "id": "3de3b670b3884ba1a800d5e9db9688e6",
+    "title": "Mailing Neighborhoods",
+    "type": "Web Map",
+    "owner": "BostonGIS",
+    "url": "",
+    "numViews": 1044
+  },
+  {
+    "id": "b413dbac45dc4447ad020d16502f59f5",
+    "title": "Popular Playgrounds and Parks",
+    "type": "Web Mapping Application",
+    "owner": "BostonGIS",
+    "url": "https://boston.maps.arcgis.com/apps/View/index.html?appid=b413dbac45dc4447ad020d16502f59f5",
+    "numViews": 94606
+  }
+]

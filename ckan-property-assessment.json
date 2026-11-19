@@ -1,0 +1,575 @@
+[
+  {
+    "name": "property-assessment",
+    "title": "Property Assessment",
+    "resources": [
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/d6c1268c-cd83-4dc3-a914-bba1ed59da6d/download/propertyoccupancycodes.pdf",
+        "id": "d6c1268c-cd83-4dc3-a914-bba1ed59da6d",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/ee73430d-96c0-423e-ad21-c4cfb54c8961/download/fy2026-property-assessment-data_rev.csv",
+        "id": "ee73430d-96c0-423e-ad21-c4cfb54c8961",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/440f72b7-bb2c-4c37-971f-c1097d155559/download/property-assessment-fy2026-data-key.pdf",
+        "id": "440f72b7-bb2c-4c37-971f-c1097d155559",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/6b7e460e-33f6-4e61-80bc-1bef2e73ac54/download/fy2025-property-assessment-data_12_30_2024.csv",
+        "id": "6b7e460e-33f6-4e61-80bc-1bef2e73ac54",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/96b6cf8b-04f2-4b87-b78f-ba9a0ddd1573/download/property-assessment-fy2025-data-key.pdf",
+        "id": "96b6cf8b-04f2-4b87-b78f-ba9a0ddd1573",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/a9eb19ad-da79-4f7b-9e3b-6b13e66f8285/download/fy2024-property-assessment-data_1_5_2024.csv",
+        "id": "a9eb19ad-da79-4f7b-9e3b-6b13e66f8285",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/fda18178-b7f8-49fc-be3e-75ddc0be4117/download/property-assessment-fy2024-data-key.pdf",
+        "id": "fda18178-b7f8-49fc-be3e-75ddc0be4117",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/1000d81c-5bb5-49e8-a9ab-44cd042f1db2/download/fy2023-property-assessment-data.csv",
+        "id": "1000d81c-5bb5-49e8-a9ab-44cd042f1db2",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/4973f23e-859e-4190-b308-8223c246147e/download/property-assessment-fy2023-data-key.pdf",
+        "id": "4973f23e-859e-4190-b308-8223c246147e",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/4b99718b-d064-471b-9b24-517ae5effecc/download/fy2022pa-4.csv",
+        "id": "4b99718b-d064-471b-9b24-517ae5effecc",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/db9d1e04-080b-4477-96e0-c440f3ff29f1/download/property-assessment-fy2022-data-key.pdf",
+        "id": "db9d1e04-080b-4477-96e0-c440f3ff29f1",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/c4b7331e-e213-45a5-adda-052e4dd31d41/download/data2021-full.csv",
+        "id": "c4b7331e-e213-45a5-adda-052e4dd31d41",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/8de4e3a0-c1d2-47cb-8202-98b9cbe3bd04/download/data2020-full.csv",
+        "id": "8de4e3a0-c1d2-47cb-8202-98b9cbe3bd04",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/695a8596-5458-442b-a017-7cd72471aade/download/fy19fullpropassess.csv",
+        "id": "695a8596-5458-442b-a017-7cd72471aade",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/bac18ae6-b8fd-4cd3-a61c-c5e1a11f716c/download/property-assessment-fy2019-data-key.pdf",
+        "id": "bac18ae6-b8fd-4cd3-a61c-c5e1a11f716c",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/fd351943-c2c6-4630-992d-3f895360febd/download/ast2018full.csv",
+        "id": "fd351943-c2c6-4630-992d-3f895360febd",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/b8e32ddf-671f-4a35-b99f-c060bae958e5/download/property-assessment-fy2018-data-key.pdf",
+        "id": "b8e32ddf-671f-4a35-b99f-c060bae958e5",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/062fc6fa-b5ff-4270-86cf-202225e40858/download/property-assessment-fy2017.csv",
+        "id": "062fc6fa-b5ff-4270-86cf-202225e40858",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/d195dc47-56f6-437c-80a8-7acbb8a2aa6d/download/property-assessment-fy2017-data-key.pdf",
+        "id": "d195dc47-56f6-437c-80a8-7acbb8a2aa6d",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/cecdf003-9348-4ddb-94e1-673b63940bb8/download/property-assessment-fy2016.csv",
+        "id": "cecdf003-9348-4ddb-94e1-673b63940bb8",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/dbdc1bd8-60af-4913-a788-5f91cb68541b/download/assessing-property-data-key-2016.pdf",
+        "id": "dbdc1bd8-60af-4913-a788-5f91cb68541b",
+        "datastore_active": false
+      },
+      {
+        "name": "Property Assessment 2015",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/bdb17c2b-e9ab-44e4-a070-bf804a0e1a7f/download/property-assessment-fy2015.csv",
+        "id": "bdb17c2b-e9ab-44e4-a070-bf804a0e1a7f",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/ddd1d6fa-6cdd-493b-85b5-b4b91a1de553/download/assessingpropertydatakey-7.pdf",
+        "id": "ddd1d6fa-6cdd-493b-85b5-b4b91a1de553",
+        "datastore_active": false
+      },
+      {
+        "name": "Property Assessment 2014",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/7190b0a4-30c4-44c5-911d-c34f60b22181/download/property-assessment-fy2014.csv",
+        "id": "7190b0a4-30c4-44c5-911d-c34f60b22181",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/4e389dbd-3cc4-4268-ac57-759d91e574a9/download/fy14assessingdataguideandoccupancycodes.pdf",
+        "id": "4e389dbd-3cc4-4268-ac57-759d91e574a9",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/425fd527-e26b-49c9-853c-1c4d3d2bdd97/download/property-assessment-fy13.csv",
+        "id": "425fd527-e26b-49c9-853c-1c4d3d2bdd97",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/4326ca95-09ec-42e0-8cee-f048e00e6728/download/property-assessment-fy12.csv",
+        "id": "4326ca95-09ec-42e0-8cee-f048e00e6728",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/110e8ded-d7cd-40d2-a72c-e4f3c7e9c541/download/property-assessment-fy11.csv",
+        "id": "110e8ded-d7cd-40d2-a72c-e4f3c7e9c541",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/738ece37-5ae0-4f04-bf69-eca3ae1940b2/download/property-assessment-fy10.csv",
+        "id": "738ece37-5ae0-4f04-bf69-eca3ae1940b2",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/1a374bd0-1ff9-4d1a-8727-ddfc201254fe/download/property-assessment-fy09.csv",
+        "id": "1a374bd0-1ff9-4d1a-8727-ddfc201254fe",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/81f34da8-ec6d-45f6-8d6c-65c57e71023e/download/property-assessment-fy08.csv",
+        "id": "81f34da8-ec6d-45f6-8d6c-65c57e71023e",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/b3862082-216b-4a24-9f31-f47782079c3c/download/data2007-lite.txt",
+        "id": "b3862082-216b-4a24-9f31-f47782079c3c",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/abab36a5-3e34-4262-8264-5f006e73ba6b/download/fy-07-lite-version.pdf",
+        "id": "abab36a5-3e34-4262-8264-5f006e73ba6b",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/327af2fd-e386-4822-8a7f-aaab6d4d2c62/download/data2006lite.txt",
+        "id": "327af2fd-e386-4822-8a7f-aaab6d4d2c62",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "DOC",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/cc02fad6-b0c6-4878-95b0-2f8ec4600683/download/2006-cdrom-lite-version.doc",
+        "id": "cc02fad6-b0c6-4878-95b0-2f8ec4600683",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/5bfe4ca0-71c0-4751-bdcf-dad4d58445e0/download/data2005-lite.txt",
+        "id": "5bfe4ca0-71c0-4751-bdcf-dad4d58445e0",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "DOC",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/8d4656e0-7ce0-49a6-8635-a9e9099559ac/download/2005-cdrom-lite-version.doc",
+        "id": "8d4656e0-7ce0-49a6-8635-a9e9099559ac",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/d3be93ad-7939-4425-8b3b-73b69a747fa4/download/data2004-lite.txt",
+        "id": "d3be93ad-7939-4425-8b3b-73b69a747fa4",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "DOC",
+        "url": "https://data.boston.gov/dataset/e02c44d2-3c64-459c-8fe2-e1ce5f38a035/resource/c50c981f-a512-47ab-b8d4-af95ce90948a/download/2004-cdrom-lite-version.doc",
+        "id": "c50c981f-a512-47ab-b8d4-af95ce90948a",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "assessing-online",
+    "title": "Assessing Online",
+    "resources": [
+      {
+        "name": null,
+        "format": "HTML",
+        "url": "https://www.cityofboston.gov/assessing/search/",
+        "id": "914f671f-5318-4f3f-9435-5fc052ec1835",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "short-term-rental-eligibility",
+    "title": "Short-Term Rental Eligibility",
+    "resources": [
+      {
+        "name": "Short Term Rental Eligibility",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/b6af4d9e-a693-483f-aed1-ba059302efab/resource/83621b97-9a00-4aa7-bf43-28cae04969d4/download/tmpz6dyqmxb.csv",
+        "id": "83621b97-9a00-4aa7-bf43-28cae04969d4",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "parcels-2025",
+    "title": "Parcels (2025)",
+    "resources": [
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Parcels/Parcels25/MapServer/0",
+        "id": "ef4a45f0-ca0a-4068-9fa8-058cda54c68c",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/d0fe512c-80bd-4ed7-8582-c6ec38aedfa0/resource/01c6e34d-56c2-4442-958c-518951f4af71/download/parcels_2025.csv",
+        "id": "01c6e34d-56c2-4442-958c-518951f4af71",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/d0fe512c-80bd-4ed7-8582-c6ec38aedfa0/resource/905e3f0a-1b17-4105-a4dd-c6c3f04690cd/download/parcels_2025_geojson.zip",
+        "id": "905e3f0a-1b17-4105-a4dd-c6c3f04690cd",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/d0fe512c-80bd-4ed7-8582-c6ec38aedfa0/resource/604803df-39f0-4c4d-aced-90ec456008c4/download/parcels_2025.zip",
+        "id": "604803df-39f0-4c4d-aced-90ec456008c4",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/d0fe512c-80bd-4ed7-8582-c6ec38aedfa0/resource/cf57f7cc-ea73-4482-a7c0-d36472ce6d6b/download/parcels_2025.kmz",
+        "id": "cf57f7cc-ea73-4482-a7c0-d36472ce6d6b",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "parcels-20241",
+    "title": "Parcels (2024)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/9ef4ed7e-f35c-4821-a27c-fd38a54a78ce/resource/15078d15-9dc5-4779-a15a-bc0f6bfbde0c/download/parcels__2024__geojson.zip",
+        "id": "15078d15-9dc5-4779-a15a-bc0f6bfbde0c",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/9ef4ed7e-f35c-4821-a27c-fd38a54a78ce/resource/0a7a4acc-1a9b-43c9-99af-141c7b5b3148/download/parcels__2024_.csv",
+        "id": "0a7a4acc-1a9b-43c9-99af-141c7b5b3148",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/7eea77015412455d9f57790a6388973f/shapefile?layers=0",
+        "id": "31574e8f-0053-4a5e-becd-93c400acc35f",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Parcels/Parcels24/MapServer/0",
+        "id": "fed2f8fd-b5d0-4a32-8fe5-9db81bd4dd84",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::parcels-2024",
+        "id": "2a984f4b-bf1c-4069-9458-d44f8b1d231c",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::parcels-2024",
+        "id": "beba1955-e767-4d18-8ac3-9bed8d03d05c",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/9ef4ed7e-f35c-4821-a27c-fd38a54a78ce/resource/a713705e-daf4-4e03-b4dc-1a88af4af2dd/download/parcels__2024_.kmz",
+        "id": "a713705e-daf4-4e03-b4dc-1a88af4af2dd",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/9ef4ed7e-f35c-4821-a27c-fd38a54a78ce/resource/142a423a-f715-458d-9784-1664541bf389/download/parcels__2024_.zip",
+        "id": "142a423a-f715-458d-9784-1664541bf389",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "parcels-20201",
+    "title": "Parcels (2020)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/7fbb8973-180d-4a10-8c10-e53a8bc56f46/resource/93638ec5-8364-4624-abdd-ab64d24a437c/download/parcels__2020__geojson.zip",
+        "id": "93638ec5-8364-4624-abdd-ab64d24a437c",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/7fbb8973-180d-4a10-8c10-e53a8bc56f46/resource/db8e8169-5469-451b-a4ce-99a032a1c9f8/download/parcels__2020_.csv",
+        "id": "db8e8169-5469-451b-a4ce-99a032a1c9f8",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/6a76c94092574188b08a4d7f9ee5bd81/shapefile?layers=0",
+        "id": "9a25a3bf-a174-49fe-8f5c-7b02386273eb",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Parcels/Parcels20/MapServer/0",
+        "id": "82954a77-ef08-4347-ab27-cfa687eccfc6",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::parcels-2020-1",
+        "id": "1d8a0167-030a-4238-b41a-0a3e3eff8fab",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::parcels-2020-1",
+        "id": "52583dba-17be-4f20-b8bc-cf4fa2795098",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/7fbb8973-180d-4a10-8c10-e53a8bc56f46/resource/fc806660-2849-4f3e-810d-b0b0d3a16141/download/parcels__2020_.kmz",
+        "id": "fc806660-2849-4f3e-810d-b0b0d3a16141",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/7fbb8973-180d-4a10-8c10-e53a8bc56f46/resource/fe17b124-9776-4395-85d7-40da9639288f/download/parcels__2020_.zip",
+        "id": "fe17b124-9776-4395-85d7-40da9639288f",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "parcels-2015",
+    "title": "Parcels (2015)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/98fc8805-5323-4c87-8483-3a45e2c77a1f/resource/68335dd4-3995-475f-bdfe-5918c3bdb651/download/parcels__2015__geojson.zip",
+        "id": "68335dd4-3995-475f-bdfe-5918c3bdb651",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/98fc8805-5323-4c87-8483-3a45e2c77a1f/resource/28a25890-fe20-4fc7-aba1-6ce594c6ba45/download/parcels__2015_.csv",
+        "id": "28a25890-fe20-4fc7-aba1-6ce594c6ba45",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/98fc8805-5323-4c87-8483-3a45e2c77a1f/resource/12631372-3c42-46e2-a271-b7f7962c44ce/download/parcels__2015_.zip",
+        "id": "12631372-3c42-46e2-a271-b7f7962c44ce",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/98fc8805-5323-4c87-8483-3a45e2c77a1f/resource/34a77d8e-5326-42d5-baff-296d09fde332/download/parcels__2015_.kmz",
+        "id": "34a77d8e-5326-42d5-baff-296d09fde332",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Parcels/Parcels15/MapServer/0",
+        "id": "5721b382-7dbe-4dd3-a221-880d31692e81",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "parcels-20141",
+    "title": "Parcels (2014)",
+    "resources": [
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/6cf84934-9fec-433f-b03d-688ccc881a74/resource/f27ae7ee-e70d-4bf3-8ff4-45dc6890db09/download/parcels__2014__geojson.zip",
+        "id": "f27ae7ee-e70d-4bf3-8ff4-45dc6890db09",
+        "datastore_active": false
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/6cf84934-9fec-433f-b03d-688ccc881a74/resource/06ca0810-5030-4e9a-8c7f-3b6769d30aaa/download/parcels__2014_.csv",
+        "id": "06ca0810-5030-4e9a-8c7f-3b6769d30aaa",
+        "datastore_active": true
+      },
+      {
+        "name": "Shapefile",
+        "format": "ZIP",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/api/download/v1/items/6bf979d7778f444799601a247588ebbd/shapefile?layers=0",
+        "id": "71781fff-edba-444b-9603-49cfe38f0d08",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://gisportal.boston.gov/arcgis/rest/services/Parcels/Parcels14/MapServer/0",
+        "id": "445fccd4-3d91-4e36-8501-c719dbaa8d82",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/maps/boston::parcels-2014-1",
+        "id": "73e60dbc-431a-4ca2-896f-56202a9102a8",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS Hub Dataset",
+        "format": "HTML",
+        "url": "https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::parcels-2014-1",
+        "id": "037b5682-203d-4598-a8b2-c302917e3fcf",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/6cf84934-9fec-433f-b03d-688ccc881a74/resource/3bfbde3d-feb1-4b70-9c42-a2719a5f8210/download/parcels__2014_.kmz",
+        "id": "3bfbde3d-feb1-4b70-9c42-a2719a5f8210",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/6cf84934-9fec-433f-b03d-688ccc881a74/resource/319276fc-3580-4fc7-985b-de628acf3723/download/parcels__2014_.zip",
+        "id": "319276fc-3580-4fc7-985b-de628acf3723",
+        "datastore_active": false
+      }
+    ]
+  }
+]

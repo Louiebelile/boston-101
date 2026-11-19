@@ -1,0 +1,285 @@
+[
+  {
+    "name": "bprd-trees",
+    "title": "BPRD Trees",
+    "resources": [
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/995cd80f-2489-41bf-b16b-113dba4f2797/download/bprd_trees.csv",
+        "id": "995cd80f-2489-41bf-b16b-113dba4f2797",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/2f575489-e721-45ec-865a-e98f10d2ee85/download/bprd_trees.geojson",
+        "id": "2f575489-e721-45ec-865a-e98f10d2ee85",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/29856b83-7747-41bb-97fb-eaeb30e12165/download/bprd_trees.zip",
+        "id": "29856b83-7747-41bb-97fb-eaeb30e12165",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/16a3ce7b-a4e6-45de-a442-995857aa3852/download/bprd_trees.kmz",
+        "id": "16a3ce7b-a4e6-45de-a442-995857aa3852",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BPRD_Trees/FeatureServer",
+        "id": "cd7f0521-ab87-4cdc-a247-b27b31de1231",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/e4c76e72-dcf1-40a0-b426-97c52214a9fe/resource/562516f7-8ff2-43a6-bd02-e49f0295c927/download/bprd-trees-metadata.pdf",
+        "id": "562516f7-8ff2-43a6-bd02-e49f0295c927",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "tree-canopy-change-assessment",
+    "title": "Canopy Change Assessment",
+    "resources": [
+      {
+        "name": null,
+        "format": "",
+        "url": "https://experience.arcgis.com/experience/a0d51cc1b4d84c17803cff8c5341420d/",
+        "id": "47ae96f5-46d5-45f9-99f0-3be8ad63f648",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "",
+        "url": "https://docs.google.com/document/d/1Ds-KNgMSPEOLze1bKwFrjH7x0tR-Cks4Qkt5ynMc61c/edit?tab=t.0",
+        "id": "ae2733c3-b8b1-489e-9661-ae61e2adecbf",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/b619811b-c52e-417c-a9d0-e82c19f89ca3/resource/7645f9fd-c8d8-4f08-9b6d-6cf35ff895a0/download/2019-2024-data.zip",
+        "id": "7645f9fd-c8d8-4f08-9b6d-6cf35ff895a0",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "ZIP",
+        "url": "https://data.boston.gov/dataset/b619811b-c52e-417c-a9d0-e82c19f89ca3/resource/8df4dce6-b575-43f4-90ef-2950f50a2b57/download/2014-2019data.zip",
+        "id": "8df4dce6-b575-43f4-90ef-2950f50a2b57",
+        "datastore_active": false
+      }
+    ]
+  },
+  {
+    "name": "311-service-requests",
+    "title": "311 Service Requests",
+    "resources": [
+      {
+        "name": "311 Service Requests - NEW SYSTEM",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/254adca6-64ab-4c5c-9fc0-a6da622be185/download/tmpq0il3ojm.csv",
+        "id": "254adca6-64ab-4c5c-9fc0-a6da622be185",
+        "datastore_active": true
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/6e443a5d-8027-41d5-9574-35e8f84b8284/download/311-service-requests-data-dictionary-new-system.pdf",
+        "id": "6e443a5d-8027-41d5-9574-35e8f84b8284",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "PDF",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/b237f352-49d1-4423-804f-b478e4f24e61/download/datadictionary-crmvaluecodeindex.pdf",
+        "id": "b237f352-49d1-4423-804f-b478e4f24e61",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vRwAs48Ou0txiw1NPudex752jfa34MvoBwlT2WlTf_aTVLcIsXsV4Pzdm4xBrEeYMszrUZyN-IRZG2_/pub",
+        "id": "7282adb0-c527-425d-9b65-ee3b0e2e7046",
+        "datastore_active": false
+      },
+      {
+        "name": null,
+        "format": "",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vQ9ExKIGyrLJeyVUO92qNw0Cbj5m6Sz2IAATdBgYiAGW69Wuv7dk10PHUPR7UdawGt_e89q9VhxH-I0/pub",
+        "id": "6e86da47-9b6c-459a-ab97-0e64045081a0",
+        "datastore_active": false
+      },
+      {
+        "name": "311 Service Requests - 2026",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/1a0b420d-99f1-4887-9851-990b2a5a6e17/download/tmphxmfrb2h.csv",
+        "id": "1a0b420d-99f1-4887-9851-990b2a5a6e17",
+        "datastore_active": true
+      },
+      {
+        "name": "311 Service Requests - 2025",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/9d7c2214-4709-478a-a2e8-fb2020a5bb94/download/lagan_311_open_data_2025_rvsd3.csv",
+        "id": "9d7c2214-4709-478a-a2e8-fb2020a5bb94",
+        "datastore_active": true
+      },
+      {
+        "name": "311 Service Requests - 2024",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/dff4d804-5031-443a-8409-8344efd0e5c8/download/lagan_311_open_data_2024_rvsd3.csv",
+        "id": "dff4d804-5031-443a-8409-8344efd0e5c8",
+        "datastore_active": true
+      },
+      {
+        "name": "311 Service Requests - 2023",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/e6013a93-1321-4f2a-bf91-8d8a02f1e62f/download/lagan_311_open_data_2023_rvsd3.csv",
+        "id": "e6013a93-1321-4f2a-bf91-8d8a02f1e62f",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2022",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/81a7b022-f8fc-4da5-80e4-b160058ca207/download/lagan_311_open_data_2022_rvsd3.csv",
+        "id": "81a7b022-f8fc-4da5-80e4-b160058ca207",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2021",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/f53ebccd-bc61-49f9-83db-625f209c95f5/download/lagan_311_open_data_2021_rvsd3.csv",
+        "id": "f53ebccd-bc61-49f9-83db-625f209c95f5",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2020",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/6ff6a6fd-3141-4440-a880-6f60a37fe789/download/lagan_311_open_data_2020_rvsd3.csv",
+        "id": "6ff6a6fd-3141-4440-a880-6f60a37fe789",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2019",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/ea2e4696-4a2d-429c-9807-d02eb92e0222/download/lagan_311_open_data_2019_rvsd3.csv",
+        "id": "ea2e4696-4a2d-429c-9807-d02eb92e0222",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2018",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/2be28d90-3a90-4af1-a3f6-f28c1e25880a/download/lagan_311_open_data_2018_rvsd3.csv",
+        "id": "2be28d90-3a90-4af1-a3f6-f28c1e25880a",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2017",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/30022137-709d-465e-baae-ca155b51927d/download/lagan_311_open_data_2017_rvsd3.csv",
+        "id": "30022137-709d-465e-baae-ca155b51927d",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2016",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/b7ea6b1b-3ca4-4c5b-9713-6dc1db52379a/download/lagan_311_open_data_2016_rvsd3.csv",
+        "id": "b7ea6b1b-3ca4-4c5b-9713-6dc1db52379a",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2015",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/c9509ab4-6f6d-4b97-979a-0cf2a10c922b/download/lagan_311_open_data_2015_rvsd3.csv",
+        "id": "c9509ab4-6f6d-4b97-979a-0cf2a10c922b",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2014",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/bdae89c8-d4ce-40e9-a6e1-a5203953a2e0/download/lagan_311_open_data_2014_rvsd3.csv",
+        "id": "bdae89c8-d4ce-40e9-a6e1-a5203953a2e0",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2013",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/407c5cd0-f764-4a41-adf8-054ff535049e/download/lagan_311_open_data_2013_rvsd3.csv",
+        "id": "407c5cd0-f764-4a41-adf8-054ff535049e",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2012",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/382e10d9-1864-40ba-bef6-4eea3c75463c/download/lagan_311_open_data_2012_rvsd3.csv",
+        "id": "382e10d9-1864-40ba-bef6-4eea3c75463c",
+        "datastore_active": true
+      },
+      {
+        "name": "311 SERVICE REQUESTS - 2011",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/8048697b-ad64-4bfc-b090-ee00169f2323/resource/94b499d9-712a-4d2a-b790-7ceec5c9c4b1/download/lagan_311_open_data_2011_rvsd3.csv",
+        "id": "94b499d9-712a-4d2a-b790-7ceec5c9c4b1",
+        "datastore_active": true
+      }
+    ]
+  },
+  {
+    "name": "bprd-accessible-park-details-augmented",
+    "title": "BPRD Accessible Park Details Augmented",
+    "resources": [
+      {
+        "name": null,
+        "format": "XLSX",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/aa3702c3-2d0d-433c-9450-1f40ba726448/download/datadictionaryforbprdaccessibleparkfeatures.xlsx",
+        "id": "aa3702c3-2d0d-433c-9450-1f40ba726448",
+        "datastore_active": true
+      },
+      {
+        "name": "CSV",
+        "format": "CSV",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/5dbfc0b1-c72c-4bc2-8ea8-4688e252a638/download/bprd_accessible_park_details_augmented.csv",
+        "id": "5dbfc0b1-c72c-4bc2-8ea8-4688e252a638",
+        "datastore_active": true
+      },
+      {
+        "name": "GeoJSON",
+        "format": "GeoJSON",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/7b1cfe67-68be-40a3-96a6-cf9d86fbc866/download/bprd_accessible_park_details_augmented.geojson",
+        "id": "7b1cfe67-68be-40a3-96a6-cf9d86fbc866",
+        "datastore_active": false
+      },
+      {
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/eb0b3be4-3470-42c2-afa3-ae5025a7a3fb/download/bprd_accessible_park_details_augmented.zip",
+        "id": "eb0b3be4-3470-42c2-afa3-ae5025a7a3fb",
+        "datastore_active": false
+      },
+      {
+        "name": "KML",
+        "format": "KML",
+        "url": "https://data.boston.gov/dataset/a2094f7e-3330-4c9e-9f32-2d8e20c1af21/resource/50fe6562-dd63-40c3-a0a1-6aa313be8c6c/download/bprd_accessible_park_details_augmented.kmz",
+        "id": "50fe6562-dd63-40c3-a0a1-6aa313be8c6c",
+        "datastore_active": false
+      },
+      {
+        "name": "ArcGIS GeoServices REST API",
+        "format": "ArcGIS GeoServices REST API",
+        "url": "https://services.arcgis.com/sFnw0xNflSi8J0uh/arcgis/rest/services/BPRD_Accessible_Park_Details_Augmented/FeatureServer",
+        "id": "232e6a2a-f9de-4167-add4-6a58b24d4a74",
+        "datastore_active": false
+      }
+    ]
+  }
+]
