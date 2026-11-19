@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+.wrangler
+shots
+# Added to the repository only after the photo credit is confirmed
+public/img/gas-tank*
+.preview

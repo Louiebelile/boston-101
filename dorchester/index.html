@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dorchester 101: many places in one</title>
+<meta name="description" content="A free animated train ride through Boston's biggest neighborhood.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='8' fill='%23da291c'/%3E%3C/svg%3E">
+<meta name="theme-color" content="#fbe7b2">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="dot" viewBox="0 0 120 150">
+    <path d="M18 150c1-35 17-55 42-55s41 20 42 55z" fill="#b9432e"/>
+    <path d="M47 97h26l-13 30z" fill="#fff6df"/><path d="M60 126v24" stroke="#17324a" stroke-width="3"/>
+    <circle cx="48" cy="137" r="3" fill="#ebaa1f"/><circle cx="72" cy="137" r="3" fill="#ebaa1f"/>
+    <circle cx="27" cy="62" r="11" fill="#dfe3e0"/><circle cx="93" cy="62" r="11" fill="#dfe3e0"/><circle cx="33" cy="76" r="10" fill="#cfd5d3"/><circle cx="87" cy="76" r="10" fill="#cfd5d3"/>
+    <path d="M50 84h20v17c-5 5-15 5-20 0z" fill="#8a5a3c"/>
+    <ellipse cx="60" cy="63" rx="29" ry="31" fill="#a76f4b"/>
+    <path d="M26 42c5-23 62-23 68 0z" fill="#17324a"/><path d="M22 41h76c4 0 4 9 0 9H22c-4 0-4-9 0-9z" fill="#ebaa1f"/>
+    <circle cx="60" cy="31" r="7" fill="#da291c"/><path d="M57 28h6M60 28v7" stroke="#fff6df" stroke-width="1.8"/>
+    <circle cx="48" cy="64" r="9" fill="#fff6df" stroke="#17324a" stroke-width="3"/><circle cx="72" cy="64" r="9" fill="#fff6df" stroke="#17324a" stroke-width="3"/><path d="M57 64h6" stroke="#17324a" stroke-width="3"/>
+    <circle cx="49" cy="65" r="3" fill="#17324a"/><circle cx="71" cy="65" r="3" fill="#17324a"/>
+    <path d="M47 79c7 8 19 8 26 0" fill="none" stroke="#5b2f22" stroke-width="3.5" stroke-linecap="round"/>
+  </symbol>
+</svg>
+<a class="mark" href="../index.html">Boston 101</a>
+<div class="sky" aria-hidden="true"><i class="sun"></i><i class="cloud c1"></i><i class="cloud c2"></i><i class="cloud c3"></i></div>
+<canvas id="city" aria-hidden="true"></canvas>
+<div id="signs" aria-hidden="true"></div>
+<figure id="photo" aria-hidden="true"><img alt="The painted gas tank on Commercial Point, reflected in the water"><figcaption>Photo credit to be added before launch</figcaption></figure>
+<div id="doors" aria-hidden="true"><i></i><i></i></div>
+<ol id="route" aria-label="Stops on this ride"></ol>
+<main id="story"></main>
+<div id="scroll" aria-hidden="true"></div>
+<div id="loading" role="status"><svg viewBox="0 0 120 150" width="96" height="120"><use href="#dot"/></svg><p>Unfolding Dorchester</p><b><i></i></b></div>
+<script type="module" src="/src/dorchester/main.js"></script>
+</body>
+</html>
